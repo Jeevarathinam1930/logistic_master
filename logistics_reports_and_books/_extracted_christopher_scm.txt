@@ -1,0 +1,1453 @@
+ 
+MANAGEMENT
+Visit our website at
+www.pearson-books.com
+ 
+Visit our website at
+www.pearson-books.com
+LOGISTICS &
+SUPPLY CHAIN
+MANAGEMENT
+MARTIN CHRISTOPHER
+FOURTH EDITION
+LOGISTICS & SUPPLY CHAIN MANAGEMENT      MARTIN CHRISTOPHER
+Effective design and management of supply chain networks can cut costs 
+and enhance customer value. The supply chain can be a sustainable source 
+of advantage in today’s turbulent global marketplace, where demand is 
+difﬁ  cult to predict and supply chains need to be more ﬂ  exible as a result. 
+In fact, the real competition today is not between companies, but between 
+supply chains. The winning approach to supply chains is an integrated 
+perspective that takes account of networks of relationships, sustainability 
+and product design, as well as the logistics of procurement, distribution, 
+and fulﬁ  lment. Logistics & Supply Chain Management examines the tools, 
+core processes and initiatives that ensure businesses can gain and maintain 
+competitive advantage.
+This updated fourth edition 
+of the bestselling Logistics & 
+Supply Chain Management is 
+the practical guide to all the key 
+topics in an integrated approach 
+to supply chains, including:
+ 
+•   The link between logistics and 
+customer value 
+•
+  Logistics and the bottom line – 
+measuring costs and performance 
+•
+  Creating a responsive supply chain 
+•
+  Managing the global pipeline 
+•
+  Managing supply chain relationships 
+•
+  Managing risk in the supply chain 
+•
+  Matching supply and demand 
+•
+  Creating a sustainable supply chain 
+•
+  Product design in the supply chain
+Martin Christopher is Emeritus Professor 
+of Marketing and Logistics at Cranﬁ  eld School 
+of Mangement, a leading UK business school. 
+He has written numerous books and articles 
+and is on the editorial advisory board of several 
+professional journals. Until recently he was co-
+editor of The International Journal of Logistics 
+Management and his latest books have focused 
+upon relationship marketing, logistics and supply 
+chain management.
+He has held appointments as Visiting Professor 
+at universities around the world. Professor 
+Christopher is a Fellow of The Chartered 
+Institute of Marketing, The Chartered Institute 
+of Logistics and Transport and The Chartered 
+Institute of Purchasing & Supply. In 1987 he 
+was awarded the Sir Robert Lawrence medal 
+of The Chartered Institute of Logistics and 
+Transport for his contribution to the development 
+of logistics education in Britain. In 2005 he was 
+awarded the Distinguished Service Award of 
+the USA Council for Supply Chain Management 
+Professionals. In 2007 he was designated 
+as Foundation Professor by The Chartered 
+Institute of Purchasing & Supply. Martin has also 
+worked as a consultant for major international 
+companies in North America, Europe, the Far 
+East and Australasia.
+www.martin-christopher.info      
+‘For many years now, Martin Christopher’s book has been my default 
+recommendation to anyone seeking to acquire a quick yet comprehensive 
+grasp of supply chain issues and management. Whether you are a recent 
+entrant to the ﬁ  eld or a seasoned practitioner looking for inspiration, this 
+book is for you!’ Bjorn Vang Jensen, Vice President, Global Logistics, Electrolux
+‘You must read this book for his assessment of the challenges that lie 
+ahead.’ Dr John Gattorna, supply chain ‘thought leader’ and author of Dynamic 
+Supply Chains
+‘A powerful book for executives and practitioners. It emphasises the 
+“end-to-end” view of supply chains, focusing on both cost efﬁ  ciency and 
+value creation. The principles and concepts are illustrated with practical 
+examples and applications. It is a great contribution.’ Professor Hau Lee, 
+Stanford Graduate School of Business, USA
+Design: Dan Mogford
+The fourth edition has been updated and now contains four new chapters covering:
+• MANAGING SUPPLY CHAIN RELATIONSHIPS
+• PRODUCT DESIGN IN THE SUPPLY CHAIN
+• MATCHING SUPPLY AND DEMAND 
+• CREATING A SUSTAINABLE SUPPLY CHAIN
+ 
+Logistics & Supply  
+Chain Management
+ 
+In an increasingly competitive world, we believe it's quality of  
+thinking that gives you the edge – an idea that opens new  
+doors, a technique that solves a problem, or an insight that  
+simply makes sense of it all. The more you know, the smarter  
+and faster you can go.
+That's why we work with the best minds in business and finance  
+to bring cutting-edge thinking and best learning practice to a  
+global market.
+Under a range of leading imprints, including Financial Times 
+Prentice Hall, we create world-class print publications and 
+electronic products, bringing our readers knowledge, skills and  
+understanding, which can be applied whether studying or at work.
+To find out more about Pearson Education publications, or tell us 
+about the books you'd like to find, you can visit us at  
+www.pearsoned.co.uk
+Logistics & Supply  
+Chain Management
+Fourth Edition
+ 
+Logistics & Supply  
+Chain Management
+Fourth Edition
+M A R T I N  C H R I S T O P H E R
+[ ]
+ 
+ 
+PEARSON EDUCATION LIMITED
+Edinburgh Gate
+Harlow CM20 2JE
+Tel: +44 (0)1279 623623
+Fax: +44 (0)1279 431059
+Website: www.pearsoned.co.uk
+First published in Great Britain in 1992
+Second edition 1998
+Third edition 2005
+Fourth edition 2011
+© Pearson Education Limited 2011
+The right of Martin Christopher to be identified as author of this work has been asserted  
+by him in accordance with the Copyright, Designs and Patents Act 1988.
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval  
+system, or transmitted in any form or by any means, electronic, mechanical,  
+photocopying, recording or otherwise, without either the prior written permission of  
+the publisher or a licence permitting restricted copying in the United Kingdom issued by the  
+Copyright Licensing Agency Ltd, Saffron House, 6–10 Kirby Street, London EC1N 8TS.  
+This book may not be lent, resold, hired out or otherwise disposed of by way of trade in any
+form of binding or cover other than that in which it is published, without the prior consent  
+of the Publishers.
+All trademarks used herein are the property of their respective owners. The use of any trademark in this text 
+does not vest in the author or publisher any trademark ownership rights in such trademarks, nor does the 
+use of such trademarks imply any affiliation with or endorsement of this book by such owners.
+Pearson Education is not responsible for the content of third party internet sites.
+ISBN: 978-0-273-73112-2
+British Library Cataloguing-in-Publication Data
+A catalogue record for this book is available from the British Library
+Library of Congress Cataloging-in-Publication Data
+Christopher, Martin.
+  Logistics and supply chain management : creating value-adding networks / Martin 
+Christopher. -- 4th ed.
+      p. cm.
+  Includes index.
+  ISBN 978-0-273-73112-2 (pbk.)
+ 1. Business logistics--Cost effectiveness. 2. Delivery of goods--Management. I.
+Title.
+  HD38.5.C46 2011
+  658.5--dc22
+                                           2010033709
+11 10 9 8 7 6 5 4 3 2 1
+14 13 12 11 10
+Typeset in Swiss Light 9.25 pt/12 pt by 30
+Printed and bound in Great Britain by Henry Ling Ltd, Dorchester, Dorset
+ 
+Martin Christopher  is Emeritus Professor of Marketing and Logistics at Cranfield 
+School of Management in the United Kingdom. His work in the field of logistics 
+and supply chain management has gained international recognition. He has pub-
+lished widely and his books have been translated into many languages. Martin 
+Christopher co-founded the International Journal of Logistics Management and was 
+its joint editor for 18 years. He is a regular contributor to conferences and work-
+shops around the world.
+ In addition to working with many companies in an advisory capacity he is also a 
+Visiting Professor at universities in the UK, Australia, Spain and Sweden.
+ Martin Christopher is an Emeritus Fellow of the Chartered Institute of Logistics 
+and Transport. He is also a Fellow of the Chartered Institute of Purchasing and 
+Supply and a Fellow of the Chartered Institute of Marketing. He is the recipient of 
+the Distinguished Service Award of the USA Council of Supply Chain Management 
+Professionals.
+About the author
+v
+ 
+ 
+ About the author v
+ Preface x
+ Publisher's acknowledgements xi
+ 1 Logistics, the supply chain and competitive strategy  1
+ Supply chain management is a wider concept than logistics 2
+ Competitive advantage 4
+ The supply chain becomes the value chain 9
+ The mission of logistics management 11
+ The supply chain and competitive performance 13
+ The changing competitive environment 15
+ 2 Logistics and customer value  27
+ The marketing and logistics interface 28
+ Delivering customer value 29
+ What is customer service? 31
+ The impact of out-of-stock 33
+ Customer service and customer retention 34
+ Market-driven supply chains 38
+ Defining customer service objectives 42
+ Setting customer service priorities 46
+ Setting service standards 50
+ 
+ 3 Measuring logistics costs and performance  57
+ Logistics and the bottom line 58
+ Logistics and shareholder value 62
+ Logistics cost analysis 66
+ The concept of total cost analysis 67
+ Principles of logistics costing 70
+ Customer profitability analysis 72
+ Direct product profitability 78
+ Cost drivers and activity-based costing 80
+ 4 Matching supply and demand  83
+ The lead-time gap 83
+ Improving the visibility of demand 85
+ The supply chain fulcrum 87
+ Forecast for capacity, execute against demand 89
+ Demand management and planning 89
+ Collaborative planning, forecasting and replenishment 94
+Contents
+vii
+ 
+viii c o n t e n t s
+ 5 creating the responsive supply chain  99
+ Product 'push' versus demand 'pull' 104
+ The Japanese philosophy 109
+ The foundations of agility 112
+ A routemap to responsiveness 116
+ 6 strategic lead-time management  121
+ Time-based competition 121
+ Lead-time concepts 125
+ Logistics pipeline management 129
+ 7 the synchronous supply chain  141
+ The extended enterprise and the virtual supply chain 142
+ The role of information in the virtual supply chain 144
+ Laying the foundations for synchronisation 147
+ 'Quick response' logistics 150
+ Production strategies for quick response 153
+ Logistics systems dynamics 154
+ 8 complexity and the supply chain  159
+ The sources of supply chain complexity 161
+ The cost of complexity 165
+ Product design and supply chain complexity 166
+ Mastering complexity 167
+ 9 Managing the global pipeline  171
+ The trend towards globalisation in the supply chain 173
+ Gaining visibility in the global pipeline 178
+ Organising for global logistics 180
+ Thinking global, acting local 184
+ The future of global sourcing 185
+10 Managing risk in the supply chain  189
+ Why are supply chains more vulnerable? 190
+ Understanding the supply chain risk profile 193
+ Managing supply chain risk 198
+ Achieving supply chain resilience 206
+11 the era of network competition  211
+ The new organisational paradigm 212
+ Collaboration in the supply chain 214
+ Managing the supply chain as a network 217
+ Seven major business transformations 218
+ The implications for tomorrow's logistics managers 220
+viii
+ 
+c o n t e n t s ix
+ Supply chain orchestration 222
+ From 3PL to 4PL™ 223
+12 overcoming the barriers to supply chain integration  227
+ Creating the logistics vision 228
+ The problems with conventional organisations 228
+ Developing the logistics organisation 232
+ Logistics as the vehicle for change 236
+ Benchmarking 237
+13 creating a sustainable supply chain  241
+ The triple bottom line 241
+ Greenhouse gases and the supply chain 243
+ Reducing the transport-intensity of supply chains 245
+ Peak oil 247
+ Beyond the carbon footprint 248
+ Reduce, reuse, recycle 250
+ The impact of congestion 252
+14 the supply chain of the future  257
+ Emerging mega-trends 258
+ Shifting centres of gravity 259
+ The multi-channel revolution 261
+ Seeking structural flexibility 264
+ 2020 vision 266
+ Index 269
+ix
+ 
+Preface
+When the first edition of this book was published in 1992, supply chain management 
+as an idea was still in its infancy and relatively few companies had made it a priority.
+ The same was true for logistics management, although its precursor, distribution 
+management, was increasingly being recognised as important both in terms of cost 
+and for its potential impact on sales.
+ In the intervening years from the first to the fourth edition, many things have hap-
+pened. Firstly, there is now a much greater understanding of the role that supply 
+chain management plays in creating competitive advantage. Whereas previously 
+the focus was primarily tactical with a concern for optimising costs, now there is 
+much more of a strategic focus with the emphasis on value creation and delivery. 
+The second major change is the recognition that supply chain management is not 
+just an extension of logistics management, but rather that it is about managing 
+relationships across the complex networks that today's supply chains have become. 
+A third significant change over that period is that the business environment has 
+become a lot more volatile and hence less predictable. This transition from a rela-
+tively stable world to one that is much more turbulent requires supply chains to be 
+capable of changing rapidly to meet changed circumstances.
+ 
+These changes are reflected in the additional material included in this new edition. 
+Thus complexity management and the challenge of making the transition from a 
+forecast-driven to a demand-driven business model are given greater emphasis.
+ As ever, I have been greatly influenced in my thinking by the ideas and contri-
+butions of colleagues. I have had the privilege over the years to work with many 
+academics and practitioners around the world who have provided me with inspira-
+tion as well as feedback on my ideas on how modern supply chains should be 
+designed and managed. Long-standing collaborators include Alan Braithwaite, 
+Chairman of LCP Consulting, Professor John Gattorna of Macquarie University, 
+Australia, Professor Douglas Lambert of Ohio State University, USA and Professor 
+Denis Towill of Cardiff University, UK. 
+ More recently I have benefited greatly from sharing ideas with Dr Omera Khan of 
+Manchester University, UK, Dr Matthias Holweg of Cambridge University, UK and 
+Dr Janet Godsell and Dr Uta Jüttner, both colleagues at Cranfield University. I thank 
+them all.
+ Finally I want to thank Tracy Stickells who has skilfully managed the production 
+of the manuscript for this book – a complex logistics process in itself.
+MARTIN CHRISTOPHER
+EMERITUS PROFESSOR OF MARKETING & LOGISTICS
+CENTRE FOR LOGISTICS AND SUPPLY CHAIN MANAGEMENT
+CRANFIELD UNIVERSITY, UK
+x
+ 
+xi
+Publisher's Acknowledgements
+We are grateful to the following for permission to reproduce copyright material:
+Figures
+Figure 1.7 from Competitive Advantage, The Free Press (Porter, M.E. 1985), Reprinted 
+with the permission of The Free Press, a Division of Simon & Schuster, Inc., 
+from COMPETETIVE ADVANTAGE: Creating and Sustaining Superior Performance 
+by Michael E. Porter. Copyright © 1985, 1998 by Michael E. Porter. All rights 
+reserved.; Figure 1.9 from Integrating the Supply Chain, International Journal of 
+Physical Distribution and Materials Management, 19 (8) (Stevens, G.C. 1989), 
+International Journal of Physical Distribution and Logistics Management by Scott, 
+C. and Westbrook, R. Copyright 1991 by EMERALD GROUP PUBLISHING LIMITED. 
+Reproduced with permission of EMERALD GROUP PUBLISHING LIMITED in the 
+format Textbook via Copyright Clearance Center. ; Figure 2.2 from 'Stock-outs cause 
+walkouts', Harvard Business Review, May (Corsten, D. and Gruen, T. 2004); Figure 
+3.10 from Logistics – The Battleground of the 1990s, A.T. Kearney (Hill, G.V.); Figure 
+3.11 from Managing the Supply Chain: A Strategic Perspective, Macmillan Press 
+(Gattorna, J.L. and Walters, D.W. 1996); Figure 6.13 from 'New strategic tools for 
+supply chain management', International Journal of Physical Distribution of Logistics 
+Management, 21 (1) (Scott, C. and Westbrook, R. 1991), Emerald; Figure 9.3 from 
+Supply Chain Resilience, Report on behalf of the Department of Transport, Cranfield 
+School of Management (2003)
+Tables
+Table on page 74 from 'The Customer Profit Centre', Focus, 2 (2) (Hill, G.V. and 
+Harland, D.V. 1983), Institute of Logistics and Distribution Management; Table 10.1 
+from Supply Chains in a Vulnerable, Volatile World, A.T. Kearney (2003)
+Text
+Quote on page 136 from The Scotsman, 14/02/2007; Extract on page 160 from 
+The Times, 21/04/2010; Extract on page 186 from Disenchanted companies begin 
+moving production back to UK, The Times, 30/12/2009; Article on page 195 from 
+Supply Chains in a Vulnerable, Volatile World (A.T. Kearney 2003); Article on page 244 
+from 12,000-mile round trip to have seafood shelled, Daily Telegraph, 16/11/2006, 
+© Telegraph Media Group Limited 2006; Extract on page 244 from Mastering 
+Carbon Management: Balancing Trade-Offs to Optimise Supply Chain Efficiencies, 
+IBM Global Services (Butner, K., Geuder, D. and Hittner, J. 2008), Reprint courtesy 
+of International Business Machines Corporation, © 2008 International Business 
+Machines Corporation; Extract on page 252 from Supply Management, 15 February 
+2007, www.supplymanagement.com; Extract on page 254 from 'Intelligent Transport 
+Systems', Postnote, January, No. 322 (UK Parliamentary Office of Science and 
+ 
+Technology 2009), Crown Copyright material is reproduced with permission under the 
+terms of the Click-Use Licence; Extract on page 260 from 'Global Trends in Energy', 
+The McKinsey Quarterly, January 2007 (Bozon, I.J.H., Campbell, W.J. and Lindstrand, 
+M.), Excerpt from “Global Trends in Energy”, January 2007, McKinsey Quarterly, www.
+mckinseyquarterly.com. Copyright (c) 2010 McKinsey & Company. All rights reserved. 
+Reprinted by permission. ; Article on page 261 from Web-savvy housewives sabotage 
+efforts to save Japan's economy from stagnation, The Times, 02/04/2010
+In some instances we have been unable to trace the owners of copyright material, and 
+we would appreciate any information that would enable us to do so.
+P u b l i s h e r ' s  a c k n o w l e d g e m e n t sxii
+ 
+1
+Logistics and supply chain management are not new ideas. From the building of 
+the pyramids to the relief of hunger in Africa, the principles underpinning the effec-
+tive flow of materials and information to meet the requirements of customers have 
+altered little.
+ 
+Throughout the history of mankind wars have been won and lost through logistics 
+strengths and capabilities – or the lack of them. It has been argued that the defeat of 
+the British in the American War of Independence can largely be attributed to logistics 
+failure. The British Army in America depended almost entirely upon Britain for sup-
+plies. At the height of the war there were 12,000 troops overseas and for the most 
+part they had not only to be equipped, but fed from Britain. For the first six years of 
+the war the administration of these vital supplies was totally inadequate, affecting the 
+course of operations and the morale of the troops. An organisation capable of sup-
+plying the army was not developed until 1781 and by then it was too late.
+1
+ In the Second World War logistics also played a major role. The Allied Forces’ 
+invasion of Europe was a highly skilled exercise in logistics, as was the defeat 
+of Rommel in the desert. Rommel himself once said that ‘… before the fighting 
+proper, the battle is won or lost by quartermasters’.
+Logistics, the supply  
+chain and competitive  
+strategy
+1
+M MSupply chain management is a wider concept than 
+logistics
+M MCompetitive advantage
+M MThe supply chain becomes the value chain
+M MThe mission of logistics management 
+M MThe supply chain and competitive performance 
+M MThe changing competitive environment 
+ 
+However, whilst the Generals and Field Marshals from the earliest times have 
+understood the critical role of logistics, strangely it is only in the recent past that 
+business organisations have come to recognise the vital impact that logistics man-
+agement can have in the achievement of competitive advantage. Partly this lack of 
+recognition springs from the relatively low level of understanding of the benefits of 
+integrated logistics. As early as 1915, Arch Shaw pointed out that:
+The relations between the activities of demand creation and physical supply … 
+illustrate the existence of the two principles of interdependence and balance. 
+Failure to co-ordinate any one of these activities with its group-fellows and also 
+with those in the other group, or undue emphasis or outlay put upon any one     
+of these activities, is certain to upset the equilibrium of forces which means 
+efficient distribution.
+    … The physical distribution of the goods is a problem distinct from the 
+creation  of demand … Not a few worthy failures in distribution campaigns  
+have been due to such a lack of co-ordination between demand creation and 
+physical supply …
+    Instead of being a subsequent problem, this question of supply must be met 
+and answered before the work of distribution begins.
+2
+It is paradoxical that it has taken almost 100 years for these basic principles of 
+logistics management to be widely accepted.
+ What is logistics management in the sense that it is understood today?  
+There are many ways of defining logistics but the underlying concept might be 
+defined as:
+Logistics is the process of strategically managing the procurement, move-
+ment and storage of materials, parts and finished inventory (and the related 
+information flows) through the organisation and its marketing channels in 
+such a way that current and future profitability are maximised through the 
+cost-effective fulfilment of orders.
+This basic definition will be extended and developed as the book progresses, but it 
+makes an adequate starting point.
+Supply chain management is a wider concept  
+than logistics
+Logistics is essentially a planning orientation and framework that seeks to create 
+a single plan for the flow of products and information through a business. Supply 
+chain management builds upon this framework and seeks to achieve linkage and 
+co-ordination between the processes of other entities in the pipeline, i.e. suppliers 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T2
+It i s only in the recent past that business organisations have come to recognise 
+the vital impact that logistics management can have in the achievement of 
+competitive advantage.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 3
+and customers, and the organisation itself. Thus, for example, one goal of supply 
+chain management might be to reduce or eliminate the buffers of inventory that 
+exist between organisations in a chain through the sharing of information on 
+demand and current stock levels. 
+ It will be apparent that supply chain management involves a significant change 
+from the traditional arm’s-length, even adversarial, relationships that so often 
+typified buyer/supplier relationships in the past. The focus of supply chain man-
+agement is on co-operation and trust and the recognition that, properly managed, 
+the ‘whole can be greater than the sum of its parts’.
+ The definition of supply chain management adopted in this book is:
+The management of upstream and downstream relationships with suppliers 
+and customers in order to deliver superior customer value at less cost to the 
+supply chain as a whole.
+Thus the focus of supply chain management is upon the management of relation-
+ships in order to achieve a more profitable outcome for all parties in the chain. This 
+brings with it some significant challenges since there may be occasions when the 
+narrow self-interest of one party has to be subsumed for the benefit of the chain as 
+a whole.
+ Whilst the phrase ‘supply chain management’ is now widely used, it could be 
+argued that it should really be termed ‘ demand chain management ’ to reflect the 
+fact that the chain should be driven by the market, not by suppliers. Equally the 
+word ‘chain’ should be replaced by ‘ network ’ since there will normally be multiple 
+suppliers and, indeed, suppliers to suppliers as well as multiple customers and 
+customers’ customers to be included in the total system.
+ Figure 1.1 illustrates this idea of the firm being at the centre of a network of sup-
+pliers and customers.
+ 
+Extending this idea it has been suggested that a supply chain could more accu-
+rately be defined as:
+Figure 1.1 The supply chain network
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T4
+A network of connected and interdependent organisations mutually and 
+co-operatively working together to control, manage and improve the flow of 
+materials and information from suppliers to end users.
+Source: J. AITkEn
+3
+Competitive advantage
+A central theme of this book is that effective logistics and supply chain manage-
+ment can provide a major source of competitive advantage – in other words a 
+position of enduring superiority over competitors in terms of customer preference 
+may be achieved through better management of logistics and the supply chain.
+ The foundations for success in the marketplace are numerous, but a simple 
+model is based around the triangular linkage of the company, its customers and its 
+competitors – the ‘Three Cs’. Figure 1.2 illustrates the three-way relationship.
+The source of competitive advantage is found firstly in the ability of the organisa-
+tion to differentiate itself, in the eyes of the customer, from its competition, and 
+secondly by operating at a lower cost and hence at greater profit.
+ Seeking a sustainable and defensible competitive advantage has become the 
+concern of every manager who is alert to the realities of the marketplace. It is no 
+longer acceptable to assume that good products will sell themselves, neither is it 
+advisable to imagine that success today will carry forward into tomorrow.
+ Let us consider the bases of success in any competitive context. At its most 
+elemental, commercial success derives from either a cost advantage or a value 
+advantage or, ideally, both. It is as simple as that – the most profitable competitor 
+in any industry sector tends to be the lowest-cost producer or the supplier provid-
+ing a product with the greatest perceived differentiated values.
+Customers
+Needs seeking benefits
+at acceptable prices
+Cost
+differentials
+Assets and
+utilisation
+Assets and
+utilisation
+Company Competitor
+Value
+Value
+Figure 1.2 Competitive advantage and the ‘Three Cs’
+Source: Ohmae, k., The Mind of the Strategist, Penguin Books, 1983
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 5
+ Put very simply, successful companies either have a cost advantage or they 
+have a value advantage, or – even better – a combination of the two. Cost advan-
+tage gives a lower cost profile and the value advantage gives the product or 
+offering a differential ‘plus’ over competitive offerings.
+ Let us briefly examine these two vectors of strategic direction.
+1 Cost advantage
+In many industries there will typically be one competitor who will be the low-cost 
+producer and often that competitor will have the greatest sales volume in the 
+sector. There is substantial evidence to suggest that ‘big is beautiful’ when it 
+comes to cost advantage. This is partly due to economies of scale, which enable 
+fixed costs to be spread over a greater volume, but more particularly to the impact 
+of the ‘experience curve’.
+ The experience curve is a phenomenon with its roots in the earlier notion of 
+the ‘learning curve’. Researchers in the Second World War discovered that it was 
+possible to identify and predict improvements in the rate of output of workers as 
+they became more skilled in the processes and tasks on which they were working. 
+Subsequent work by Boston Consulting Group, extended this concept by demon-
+strating that all costs, not just production costs, would decline at a given rate as 
+volume increased (see Figure 1.3). In fact, to be precise, the relationship that the 
+experience curve describes is between real unit costs and cumulative volume.
+Traditionally it has been suggested that the main route to cost reduction was 
+through the achievement of greater sales volume and in particular by improving 
+market share. However, the blind pursuit of economies of scale through volume 
+increases may not always lead to improved profitability – the reason being that 
+in today’s world much of the cost of a product lies outside the four walls of the 
+business in the wider supply chain. Hence it can be argued that it is increasingly 
+through better logistics and supply chain management that efficiency and produc-
+tivity can be achieved leading to significantly reduced unit costs. How this can be 
+achieved will be one of the main themes of this book.
+Cumulative volume
+Real costs per unit
+Figure 1.3 The experience curve
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T6
+2 Value advantage
+It has long been an axiom in marketing that ‘customers don’t buy products, they 
+buy benefits’. Put another way, the product is purchased not for itself but for the 
+promise of what it will ‘deliver’. These benefits may be intangible, i.e. they relate 
+not to specific product features but rather to such things as image or service. In 
+addition, the delivered offering may be seen to outperform its rivals in some func-
+tional aspect.
+ Unless the product or service we offer can be distinguished in some way from 
+its competitors there is a strong likelihood that the marketplace will view it as a 
+‘commodity’ and so the sale will tend to go to the cheapest supplier. Hence the 
+importance of seeking to add additional values to our offering to mark it out from 
+the competition.
+ What are the means by which such value differentiation may be gained? 
+Essentially the development of a strategy based upon added values will normally 
+require a more segmented approach to the market. When a company scrutinises 
+markets closely it frequently finds that there are distinct ‘value segments’. In other 
+words, different groups of customers within the total market attach different impor-
+tance to different benefits. The importance of such benefit segmentation lies in 
+the fact that often there are substantial opportunities for creating differentiated 
+appeals for specific segments. Take the car industry as an example. Most volume 
+car manufacturers such as Toyota or Ford offer a range of models positioned at 
+different price points in the market. However, it is increasingly the case that each 
+model is offered in a variety of versions. Thus at one end of the spectrum may be 
+the basic version with a small engine and two doors and at the other end, a four-
+door, high-performance version. In between are a whole variety of options, each of 
+which seeks to satisfy the needs of quite different ‘benefit segments’. Adding value 
+through differentiation is a powerful means of achieving a defensible advantage in 
+the market.
+ Equally powerful as a means of adding value is service. Increasingly it is the 
+case that markets are becoming more service-sensitive and this of course poses 
+particular challenges for logistics management. There is a trend in many markets 
+towards a decline in the strength of the ‘brand’ and a consequent move towards 
+‘commodity’ market status. Quite simply this means that it is becoming progres-
+sively more difficult to compete purely on the basis of brand or corporate image. 
+Additionally, there is increasingly a convergence of technology within product cate-
+gories, which means that it is often no longer possible to compete effectively on the 
+basis of product differences. Thus the need to seek differentiation through means 
+other than technology. Many companies have responded to this by focusing upon 
+service as a means of gaining a competitive edge. Service in this context relates to 
+Logistics and supply chain management can provide a multitude of ways 
+to increase efficiency and productivity and hence contribute significantly to 
+reduced unit costs.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 7
+the process of developing relationships with customers through the provision of an 
+augmented offer. This augmentation can take many forms including delivery serv-
+ice, after-sales services, financial packages, technical support and so forth.
+Seeking the high ground
+In practice what we find is that the successful companies will often seek to achieve 
+a position based upon both a cost advantage and a value advantage. A useful 
+way of examining the available options is to present them as a simple matrix. Let 
+us consider these options in turn.
+For companies who find themselves in the bottom left-hand corner of our matrix 
+(Figure 1.4) the world is an uncomfortable place. Their products are indistinguishable 
+from their competitors’ offerings and they have no cost advantage. These are typi-
+cal commodity market situations and ultimately the only strategy is either to move to 
+the right of the matrix, i.e. to cost leadership, or upwards towards service leadership. 
+Often the cost leadership route is simply not available. This particularly will be the 
+case in a mature market where substantial market share gains are difficult to achieve. 
+new technology may sometimes provide a window of opportunity for cost reduction 
+but in such situations the same technology is often available to competitors.
+ Cost leadership strategies have traditionally been based upon the economies 
+of scale gained through sales volume. This is why market share is considered to 
+be so important in many industries. However, if volume is to be the basis for cost 
+leadership then it is preferable for that volume to be gained early in the market life 
+cycle. The ‘experience curve’ concept, briefly described earlier, demonstrates the 
+value of early market share gains – the higher your share relative to your competi-
+tors the lower your costs should be. This cost advantage can be used strategically 
+to assume a position of price leader and, if appropriate, to make it impossible 
+for higher-cost competitors to survive. Alternatively, price may be maintained, 
+Value advantage
+Cost advantage
+Low High
+Low High
+Service
+leader
+Cost and
+service leader
+Commodity
+market
+Cost
+leader
+Figure 1.4 Logistics and competitive advantage
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T8
+enabling above-average profit to be earned, which potentially is available to further 
+develop the position of the product in the market.
+ However, an increasingly powerful route to achieving a cost advantage comes 
+not necessarily through volume and the economies of scale but instead through 
+logistics and supply chain management. In many industries, logistics costs rep-
+resent such a significant proportion of total costs that it is possible to make major 
+cost reductions through fundamentally re-engineering logistics processes. The 
+means whereby this can be achieved will be returned to later in this book.
+ The other way out of the ‘commodity’ quadrant of the matrix is to seek a strat-
+egy of differentiation through service excellence. We have already commented 
+on the fact that markets have become more ‘service-sensitive’. Customers in all 
+industries are seeking greater responsiveness and reliability from suppliers; they 
+are looking for reduced lead times, just-in-time delivery and value-added services 
+that enable them to do a better job of serving their customers. In Chapter 2 we 
+will examine the specific ways in which superior service strategies, based upon 
+enhanced logistics management, can be developed.
+One thing is certain: there is no middle ground between cost leadership and service 
+excellence. Indeed the challenge to management is to identify appropriate logistics 
+and supply chain strategies to take the organisation to the top right-hand corner of 
+the matrix. Companies who occupy that position have offers that are distinctive in 
+the value they deliver and are also cost competitive. Clearly it is a position of some 
+strength, occupying ‘high ground’ that is extremely difficult for competitors to attack. 
+Figure 1.5 clearly presents the challenge: it is to seek out strategies that will take the 
+business away from the ‘commodity’ end of the market towards a securer position of 
+strength based upon differentiation and cost advantage.
+ Logistics management, it can be argued, has the potential to assist the or gani-
+sation in the achievement of both a cost advantage and a value advantage. As Figure 
+1.6 suggests, in the first instance there are a number of important ways in which 
+Relative differentiation
+Relative delivered costs
+High Low
+Low High
+Figure 1.5 The challenge to logistics and supply chain management
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 9
+productivity can be enhanced through logistics and supply chain management. Whilst 
+these possibilities for leverage will be discussed in detail later in the book, suffice it to 
+say that the opportunities for better capacity utilisation, inventory reduction and closer 
+integration with suppliers at a planning level are considerable. Equally the prospects 
+for gaining a value advantage in the marketplace through superior customer service 
+should not be underestimated. It will be argued later that the way we service the cus-
+tomer has become a vital means of differentiation.
+To summarise, those organisations that will be the leaders in the markets of the 
+future will be those that have sought and achieved the twin peaks of excellence: 
+they have gained both cost leadership and service leadership.
+ The underlying philosophy behind the logistics and supply chain concept is that 
+of planning and co-ordinating the materials flow from source to user as an inte-
+grated system rather than, as was so often the case in the past, managing the 
+goods flow as a series of independent activities. Thus under this approach the 
+goal is to link the marketplace, the distribution network, the manufacturing proc-
+ess and the procurement activity in such a way that customers are serviced at 
+higher levels and yet at lower cost. In other words the goal is to achieve competi-
+tive advantage through both cost reduction and service enhancement.
+The supply chain becomes the value chain
+Of the many changes that have taken place in management thinking over the 
+last 30 years or so perhaps the most significant has been the emphasis placed 
+upon the search for strategies that will provide superior value in the eyes of the 
+Value
+advantage
+Logistics leverage
+opportunities:
+•  Tailored services
+•  Reliability
+•  Responsiveness
+Cost advantage
+Logistics leverage opportunities:
+The goal:
+superior
+customer
+value at
+less cost
+•  Capacity utilisation
+•  Asset turn
+•  Synchronous supply
+Figure 1.6 Gaining competitive advantage
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T10
+customer. To a large extent the credit for this must go to Michael Porter, the 
+Harvard Business School professor, who through his research and writing 4  has 
+alerted managers and strategists to the central importance of competitive relativi-
+ties in achieving success in the marketplace.
+ One concept in particular that Michael Porter has brought to a wider audience is 
+the ‘value chain’:
+competitive advantage cannot be understood by looking at a firm as a 
+whole. It stems from the many discrete activities a firm performs in designing, 
+producing, marketing, delivering, and supporting its product. each of these 
+activities can contribute to a firm’s relative cost position and create a basis 
+for differentiation … The value chain disaggregates a firm into its strategically 
+relevant activities in order to understand the behaviour of costs and the existing 
+and potential sources of differentiation. A firm gains competitive advantage by 
+performing these strategically important activities more cheaply or better than its 
+competitors.
+5
+Value chain activities (shown in Figure 1.7) can be categorised into two types – 
+primary activities (inbound logistics, operations, outbound logistics, marketing 
+and sales, and service) and support activities (infrastructure, human resource 
+management, technology development and procurement). These activities 
+are integrating functions that cut across the traditional functions of the firm. 
+Competitive advantage is derived from the way in which firms organise and per-
+form these activities within the value chain. To gain competitive advantage over 
+its rivals, a firm must deliver value to its customers by performing these activities 
+more efficiently than its competitors or by performing the activities in a unique way 
+that creates greater differentiation.
+Firm infrastructure
+Human resource management
+Technology development
+Procurement
+Support
+activities
+Outbound
+logistics
+OperationsInbound
+logistics
+Marketing
+and sales
+Service
+Primary activities
+M
+argin
+Figure 1.7 The value chain
+Source: Porter, M.E., competitive Advantage, The Free Press, 1985
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 11
+The implication of Michael Porter’s thesis is that organisations should look at each 
+activity in their value chain and assess whether they have a real competitive advan-
+tage in the activity. If they do not, the argument goes, then perhaps they should 
+consider outsourcing that activity to a partner who can provide that cost or value 
+advantage. This logic is now widely accepted and has led to the dramatic upsurge 
+in outsourcing activity that can be witnessed in almost every industry.
+ Whilst there is often a strong economic logic underpinning the decision to 
+outsource activities that may previously have been performed in-house, such 
+decisions may add to the complexity of the supply chain. Because there are by 
+definition more interfaces to be managed as a result of outsourcing, the need for a 
+much higher level of relationship management increases.
+ The effect of outsourcing is to extend the value chain beyond the boundaries 
+of the business. In other words, the supply chain becomes the value chain. Value 
+(and cost) is not just created by the focal firm in a network, but by all the entities 
+that connect to each other. This ‘extended enterprise’, as some have termed it, 
+becomes the vehicle through which competitive advantage is gained – or lost.
+The mission of logistics management
+It will be apparent from the previous comments that the mission of logistics 
+management is to plan and co-ordinate all those activities necessary to achieve 
+desired levels of delivered service and quality at lowest possible cost. Logistics 
+must therefore be seen as the link between the marketplace and the supply base. 
+The scope of logistics spans the organisation, from the management of raw mate-
+rials through to the delivery of the final product. Figure 1.8 illustrates this total 
+systems concept.
+ 
+The scope of logistics spans the organisation, from the management of raw 
+materials through to the delivery of the final product.
+Suppliers
+Materials flow
+Procurement Operations Distribution Customers
+Requirements information flow
+Figure 1.8 Logistics management process
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T12
+Logistics management, from this total systems viewpoint, is the means whereby 
+the needs of customers are satisfied through the co-ordination of the materials 
+and information flows that extend from the marketplace, through the firm and its 
+operations and beyond that to suppliers. To achieve this company-wide integration 
+clearly requires a quite different orientation than that typically encountered in the 
+conventional organisation.
+ For example, for many years marketing and manufacturing have been seen as 
+largely separate activities within the organisation. At best they have coexisted, at 
+worst there has been open warfare. Manufacturing priorities and objectives have 
+typically been focused on operating efficiency, achieved through long production 
+runs, minimised set-ups and change-overs and product standardisation. On the 
+other hand, marketing has sought to achieve competitive advantage through vari-
+ety, high service levels and frequent product changes.
+ In today’s more turbulent environment there is no longer any possibility of 
+manufacturing and marketing acting independently of each other. The internecine 
+disputes between the ‘barons’ of production and marketing are clearly counter-
+productive to the achievement of overall corporate goals.
+ It is no coincidence that in recent years both marketing and manufacturing 
+have become the focus of renewed attention. Marketing as a concept and a phi-
+losophy of customer orientation now enjoys a wider acceptance than ever. It is 
+now generally accepted that the need to understand and meet customer require-
+ments is a prerequisite for survival. At the same time, in the search for improved 
+cost competitiveness, manufacturing management has been the subject of a 
+massive revolution. The last few decades have seen the introduction of flexible 
+manufacturing systems (FMS), of new approaches to inventory based on materials 
+requirements planning (MRP) and just-in-time (JIT) methods and, perhaps most 
+important of all, a sustained emphasis on total quality management (TQM).
+ Equally there has been a growing recognition of the critical role that procure-
+ment plays in creating and sustaining competitive advantage as part of an 
+integrated logistics process. Leading-edge organisations now routinely include 
+supply-side issues in the development of their strategic plans. not only is the 
+cost of purchased materials and supplies a significant part of total costs in most 
+organisations, but there is a major opportunity for leveraging the capabilities and 
+competencies of suppliers through closer integration of the buyers’ and suppliers’ 
+logistics processes.
+ In this scheme of things, logistics is therefore essentially an integrative concept 
+that seeks to develop a system-wide view of the firm. It is fundamentally a planning 
+concept that seeks to create a framework through which the needs of the market-
+place can be translated into a manufacturing strategy and plan, which in turn links 
+into a strategy and plan for procurement. Ideally there should be a ‘one-plan’ men-
+tality within the business which seeks to replace the conventional stand-alone and 
+separate plans of marketing, distribution, production and procurement. This, quite 
+simply, is the mission of logistics management.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 13
+The supply chain and competitive performance
+Traditionally most organisations have viewed themselves as entities that exist inde-
+pendently from others and indeed need to compete with them in order to survive. 
+However, such a philosophy can be self-defeating if it leads to an unwillingness to 
+co-operate in order to compete. Behind this seemingly paradoxical concept is the 
+idea of supply chain integration.
+ The supply chain is the network of organisations that are involved, through 
+upstream and downstream linkages, in the different processes and activities that 
+produce value in the form of products and services in the hands of the ultimate 
+consumer. Thus, for example, a shirt manufacturer is a part of a supply chain that 
+extends upstream through the weavers of fabrics to the manufacturers of fibres, 
+and downstream through distributors and retailers to the final consumer. Each of 
+these organisations in the chain are dependent upon each other by definition and 
+yet, paradoxically, by tradition do not closely co-operate with each other.
+ Supply chain management is not the same as ‘vertical integration’. Vertical 
+integration normally implies ownership of upstream suppliers and downstream 
+customers. This was once thought to be a desirable strategy but increasingly 
+organisations are now focusing on their ‘core business’ – in other words the things 
+they do really well and where they have a differential advantage. Everything else is 
+‘outsourced’ – in other words it is procured outside the firm. So, for example, com-
+panies that perhaps once made their own components now only assemble the 
+finished product, e.g. automobile manufacturers. Other companies may also sub-
+contract the manufacturing as well, e.g. nike in footwear and sportswear. These 
+companies have sometimes been termed ‘virtual’ or ‘network’ organisations.
+ Clearly this trend has many implications for supply chain management, not the 
+least being the challenge of integrating and co-ordinating the flow of materials 
+from a multitude of suppliers, often offshore, and similarly managing the distribu-
+tion of the finished product by way of multiple intermediaries.
+GANT: creating value across a virtual network
+A good example of a virtual organisation is the Swedish clothing brand GAnT. At 
+the centre of the network is Pyramid Sportswear AB, which directly employs fewer 
+than ten people. Pyramid contracts with designers, identifies trends, uses contract 
+manufacturers, develops the retailer network and creates the brand image through 
+marketing communications. Through its databases, Pyramid closely monitors sales, 
+inventories and trends. Its network of closely co-ordinated partners means it can 
+react quickly to changes in the market. The network itself changes as requirements 
+change, and it will use different designers, freelance photographers, catalogue 
+producers, contract manufacturers and so on as appropriate.
+Source: CHRISTOPHER, M., PAYnE, A. AnD BALLAnTYnE, D., reLATIoNSHIP 
+MArKeTING: creATING STAKeHoLDer VALue, BUTTERWORTH HEInnEMAnn, 2002
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T14
+In the past it was often the case that relationships with suppliers and downstream 
+customers (such as distributors or retailers) were adversarial rather than co-
+operative. It is still the case today that some companies will seek to achieve cost 
+reductions or profit improvement at the expense of their supply chain partners. 
+Companies such as these do not realise that simply transferring costs upstream or 
+downstream does not make them any more competitive. The reason for this is that 
+ultimately all costs will make their way to the final marketplace to be reflected in the 
+price paid by the end user. The leading-edge companies recognise the fallacy of 
+this conventional approach and instead seek to make the supply chain as a whole 
+Material
+flow
+Customer
+service
+Stage one: baseline
+Purchasing Material
+control Production Sales Distribution
+Material
+flow
+Customer
+service
+Stage two: functional integration
+Materials
+management
+Manufacturing
+management Distribution
+Material
+flow
+Customer
+service
+Stage three: internal integration
+Manufacturing
+management Distribution
+Material
+flow
+Customer
+service
+Stage four: external integration
+Suppliers Internal supply
+chain Customers
+Materials
+management
+Figure 1.9 Achieving an integrated supply chain
+Source: Stevens, G.C., ‘Integrating the Supply Chain’, International Journal of Physical Distribution and 
+Materials Management, Vol. 19, no. 8, 1989
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 15
+more competitive through the value it adds and the costs that it reduces overall. 
+They have realised that the real competition is not company against company but 
+rather supply chain against supply chain.
+ It must be recognised that the concept of supply chain management, whilst rel-
+atively new, is in fact no more than an extension of the logic of logistics. Logistics 
+management is primarily concerned with optimising flows within the organisation, 
+whilst supply chain management recognises that internal integration by itself is not 
+sufficient. Figure 1.9 suggests that there is in effect an evolution of integration from 
+the stage 1 position of complete functional independence where each business 
+function such as production or purchasing does its own thing in complete isolation 
+from the other business functions. An example would be where production seeks 
+to optimise its unit costs of manufacture by long production runs without regard for 
+the build-up of finished goods inventory and heedless of the impact it will have on 
+the need for warehousing space and the impact on working capital.
+ Stage 2 companies have recognised the need for at least a limited degree of 
+integration between adjacent functions, e.g. distribution and inventory manage-
+ment or purchasing and materials control. The natural next step to stage 3 requires 
+the establishment and implementation of an ‘end-to-end’ planning framework that 
+will be fully described later in this book.
+ Stage 4 represents true supply chain integration in that the concept of linkage 
+and co-ordination that is achieved in stage 3 is now extended upstream to suppli-
+ers and downstream to customers. There is thus a crucial and important distinction 
+to be made between logistics and supply chain management.
+The changing competitive environment
+As the competitive context of business continues to change, bringing with it new 
+complexities and concerns for management generally, it also has to be recognised 
+that the impact on logistics and supply chain management of these changes can 
+be considerable. Indeed, of the many strategic issues that confront the business 
+organisation today, perhaps the most challenging are in the area of logistics and 
+supply chain management.
+ Much of this book will be devoted to addressing these challenges in detail but 
+it is useful at this stage to highlight what are perhaps the most pressing currently. 
+These are:
+M MThe new rules of competition
+M MGlobalisation of industry
+M MDownward pressure on price
+M MCustomers taking control
+The new rules of competition
+We are now entering the era of ‘supply chain competition’. The fundamental dif-
+ference from the previous model of competition is that an organisation can no 
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T16
+longer act as an isolated and independent entity in competition with other similarly 
+‘stand-alone’ organisations. Instead, the need to create value delivery systems that 
+are more responsive to fast-changing markets and are much more consistent and 
+reliable in the delivery of that value requires that the supply chain as a whole be 
+focused on the achievement of these goals.
+ In the past the ground rules for marketing success were obvious: strong brands 
+backed up by large advertising budgets and aggressive selling. This formula now 
+appears to have lost its power. Instead, the argument is heard, companies must 
+recognise that increasingly it is through their capabilities  and competencies  that 
+they compete.
+6
+ Essentially, this means that organisations create superior value for custom-
+ers and consumers by managing their core processes  better than competitors 
+manage theirs. These core processes encompass such activities as new product 
+development, supplier development, order fulfilment and customer management. 
+By performing these fundamental activities in a more cost-effective way than com-
+petitors, it is argued, organisations will gain the advantage in the marketplace. This 
+principle is powerfully expressed in the words of Jorma Ollila, the past Chairman 
+and CEO of nokia:
+our experienced and unique way of operating is what we see as increasingly 
+putting us ahead of the competition. As we move forward in this complex 
+industry, winning will be less about what we do and more about the way we do it.
+For example, one capability that is now regarded by many companies as funda-
+mental to success in the marketplace is supply chain agility. As product life cycles 
+shorten, as customers adopt just-in-time practices and as sellers’ markets become 
+buyers’ markets then the ability of the organisation to respond rapidly and flexibly 
+to demand can provide a powerful competitive edge. This is a theme to which we 
+will return in Chapter 5.
+ A major contributing factor influencing the changed competitive environment 
+has been the trend towards ‘commoditisation’ in many markets. A commodity 
+market is characterised by perceived product equality in the eyes of customers 
+resulting in a high preparedness to substitute one make of product for another. 
+Research increasingly suggests that consumers are less loyal to specific brands 
+but instead will have a portfolio of brands within a category from which they make 
+their choice. In situations such as this actual product availability becomes a major 
+determinant of demand. There is evidence that more and more decisions are 
+being taken at the point of purchase and if there is a gap on the shelf where Brand 
+X should be, but Brand Y is there instead, then there is a strong probability that 
+Brand Y will win the sale.
+ It is not only in consumer markets that the importance of logistics process 
+excellence is apparent. In business-to-business and industrial markets it seems 
+that product or technical features are of less importance in winning orders than 
+issues such as delivery lead times and flexibility. This is not to suggest that product 
+or technical features are unimportant – rather it is that they are taken as a ‘given’ 
+by the customer. Quite simply, in today’s marketplace the order-winning criteria 
+are more likely to be service-based than product-based.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 17
+A parallel development in many markets is the trend towards a concentration of 
+demand. In other words customers – as against consumers – are tending to grow in 
+size whilst becoming fewer in number. The retail grocery industry is a good example 
+in that in most northern European countries a handful of large retailers account for 
+over 50 per cent of all sales in any one country. This tendency to the concentration 
+of buying power is being accelerated as a result of global mergers and acquisitions. 
+The impact of these trends is that these more powerful customers are becoming 
+more demanding in terms of their service requirements from suppliers
+.
+ At the same time as the power in the distribution channel continues to shift 
+from supplier to buyer, there is also a trend for customers to reduce their supplier 
+base. In other words they want to do business with fewer suppliers and often on 
+a longer-term basis. The successful companies in the coming years will be those 
+that recognise these trends and seek to establish strategies based upon establish-
+ing closer relationships with key accounts. Such strategies will focus upon seeking 
+innovative ways to create more value for these customers.
+ Building competitive platforms that are grounded in this idea of value-based 
+growth will require a much greater focus on managing the core processes that 
+we referred to earlier. Whereas the competitive model of the past relied heavily on 
+product innovation this will have to be increasingly supplemented by process inno-
+vation. The basis for competing in this new era will be:
+Competitive advantage = Product excellence × Process excellence
+Figure 1.10 suggests that traditionally for many companies the investment has 
+mainly been on product excellence and less on process excellence. This is not to 
+suggest that product innovation should be given less emphasis – far from it – but 
+rather that more emphasis needs to be placed on developing and managing proc-
+esses that deliver greater value for key customers.
+In today’s marketplace the order-winning criteria are more likely to be service-
+based than product-based.
+Product excellence (%)
+Process excellence (%) 100
+100
+Revised
+emphasis
+Current
+emphasis
+Figure 1.10 Investing in process excellence yields greater benefits
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T18
+We have already commented that product life cycles are getting shorter. What we 
+have witnessed in many markets is the effect of changes in technology and con-
+sumer demand combining to produce more volatile markets where a product can be 
+obsolete almost as soon as it reaches the market. There are many current examples 
+of shortening life cycles but perhaps the personal computer symbolises them all. In 
+this particular case we have seen rapid developments in technology that have first 
+created markets where none existed before and then almost as quickly have ren-
+dered themselves obsolete as the next generation of product is announced.
+ Such shortening of life cycles creates substantial problems for logistics and 
+supply chain management. In particular, shorter life cycles demand shorter lead 
+times – indeed our definition of lead time may well need to change. Lead times 
+are traditionally defined as the elapsed period from receipt of customer order to 
+delivery. However, in today’s environment there is a wider perspective that needs 
+to be taken. The real lead time is the time taken from the drawing board, through 
+procurement, manufacture and assembly to the end market. This is the concept of 
+strategic lead time and the management of this time span is the key to success in 
+managing logistics operations.
+ 
+There are already situations arising where the life cycle is shorter than the strate-
+gic lead time. In other words the life of a product on the market is less than the time 
+it takes to design, procure, manufacture and distribute that same product! The impli-
+cations of this are considerable both for planning and operations. In a global context 
+the problem is exacerbated by the longer transportation times involved.
+ Ultimately, therefore, the means of achieving success in such markets is to 
+accelerate movement through the supply chain and to make the entire logistics 
+system far more flexible and thus responsive to these fast-changing markets.
+Globalisation of industry
+A further strategic issue that provides a challenge for logistics management is the 
+continued trend towards globalisation.
+ A global company is more than a multinational company. In the global busi-
+ness materials and components are sourced worldwide and products may be 
+manufactured offshore and sold in many different countries, perhaps with local 
+customisation.
+ Such is the trend towards globalisation that it is probably safe to forecast that 
+before long most markets will be dominated by global companies. The only role 
+left for national companies will be to cater for specific and unique local demands, 
+for example in the food industry.
+ For global companies like Hewlett Packard, Philips and Caterpillar, the man-
+agement of the logistics process has become an issue of central concern. The 
+difference between profit and loss for an individual product can hinge upon the 
+extent to which the global pipeline can be optimised, because the costs involved 
+are so great. The global company seeks to achieve competitive advantage by 
+identifying world markets for its products and then to develop a manufacturing and 
+logistics strategy to support its marketing strategy. So a company like Caterpillar, 
+for example, has dispersed assembly operations to key overseas markets and 
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 19
+uses global logistics channels to supply parts to offshore assembly plants and 
+after-markets. Where appropriate, Caterpillar will use third-party companies to 
+manage distribution and even final finishing. So, for example, in the US a third-
+party company in addition to providing parts inspection and warehousing attaches 
+options to fork lift trucks. Wheels, counterweights, forks and masts are installed as 
+specified by Caterpillar. Thus local market needs can be catered for from a stand-
+ardised production process.
+ Globalisation also tends to lengthen supply chains as companies increasingly 
+move production offshore or source from more distant locations. The impetus 
+for this trend, which in recent years has accelerated dramatically, is the search 
+for lower labour costs. However, one implication of these decisions is that ‘end-
+to-end’ pipeline times may increase significantly. In time-sensitive markets, longer 
+lead times can be fatal.
+ ‘Time-based competition’ is an idea that will be returned to many times in later 
+chapters. Time compression has become a critical management issue. Product life 
+cycles are shorter than ever, customers and distributors require just-in-time deliver-
+ies and end users are ever more willing to accept a substitute product if their first 
+choice is not instantly available.
+ 
+The globalisation of industry, and hence supply chains, is inevitable. However, 
+to enable the potential benefits of global networks to be fully realised, a wider 
+supply chain perspective must be adopted. It can be argued that for the global 
+corporation competitive advantage will increasingly derive from excellence in 
+managing the complex web of relationships and flows that characterise their 
+supply chains.
+Downward pressure on price
+Whilst the trend might not be universal there can be no doubting that most markets 
+are more price competitive today than they were a decade ago. Prices in the high 
+streets and the shopping malls continue to fall in many countries.
+ Whilst some of this price deflation can be explained as the result of normal 
+cost reduction through learning and experience effects, the rapid fall in the price 
+of many consumer goods has other causes. Figure 1.11 shows the comparative 
+rate at which VCR and DVD player prices fell in the Uk market. The striking feature 
+is that whilst it took 20 years for a VCR to fall in price from £400 to just over £40, it 
+took only five years for a DVD player to fall by the same amount, and at the time of 
+writing a DVD player can be bought in the Uk for £20! The same phenomenon is 
+apparent in markets as diverse as clothing, home furnishings and air travel.
+ A fundamental change in the global competitive landscape is driving prices to 
+levels that in real terms are as low as they have ever been. A number of causal fac-
+tors have contributed to this new market environment.
+ Firstly, there are new global competitors who have entered the marketplace 
+supported by low-cost manufacturing bases. The dramatic rise of China as a major 
+producer of quality consumer products is evidence of this. Secondly, the removal 
+of barriers to trade and the deregulation of many markets has accelerated this 
+trend, enabling new players to rapidly gain ground. One result of this has been 
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T20
+overcapacity in many industries. Overcapacity implies an excess of supply against 
+demand and hence leads to further downward pressure on price.
+ A further cause of price deflation, it has been suggested, is the Internet, which 
+makes price comparison so much easier. The Internet has also enabled auctions 
+and exchanges to be established at industry-wide levels, which have also tended 
+to drive down prices.
+ In addition, there is evidence that customers and consumers are more value 
+conscious than has hitherto been the case. Brands and suppliers that could once 
+command a price premium because of their perceived superiority can no longer 
+do so as the market recognises that equally attractive offers are available at sig-
+nificantly lower prices. The success of many retailers’ own-label products or the 
+inroads made by low-cost airlines proves this point.
+ Against the backdrop of a continued downward pressure on price, it is self-
+evident that, in order to maintain profitability, companies must find a way to bring 
+down costs to match the fall in price.
+ The challenge to the business is to find new opportunities for cost reduction 
+when, in all likelihood, the company has been through many previous cost-reduction  
+programmes. It can be argued that the last remaining opportunity of any signif-
+icance for major cost reduction lies in the wider supply chain rather than in the 
+firm’s own internal operations.
+ This idea is not new. Back in 1929 Ralph Borsodi expressed it in the following 
+words:
+In 50 years between 1870 and 1920 the cost of distributing necessities and 
+luxuries has nearly trebled, while production costs have gone down by one-fifth 
+… What we are saving in production we are losing in distribution.
+7
+The situation that Borsodi describes can still be witnessed in many industries 
+today. For example, companies which thought they could achieve a leaner oper-
+ation by moving to just-in-time (JIT) practices often only shifted costs elsewhere 
+1984
+50
+1986 1988 1990 1992 1994 1996 1998 2000 2002 2004
+100
+150
+200
+250
+300
+350
+400
+Year
+Price (£)
+VCR
+1984 £400
+2004 £45
+DVD
+1999 £400
+2004 £40
+VCR DVD
+Figure 1.11 Price deflation in consumer electronics (UK high street prices)
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 21
+in the supply chain by forcing suppliers or customers to carry that inventory. 
+The car industry, which to many is the home of lean thinking and JIT practices, 
+has certainly exhibited some of those characteristics. One analysis of the west-
+ern European automobile industry
+8  showed that whilst car assembly operations 
+were indeed very lean with minimal inventory, the same was not true upstream 
+and downstream of those operations. Figure 1.12 shows the profile of inventory 
+through the supply chain from the tier 1 suppliers down to the car dealerships.
+In this particular case the paradox is that most inventory is being held when it is at 
+its most expensive, i.e. as a finished product. The true cost of this inventory to the 
+industry is considerable. Whilst inventory costs will vary by industry and by com-
+pany, it will be suggested in Chapter 3 that the true cost of carrying inventory is 
+rarely less than 25 per cent per year of its value. In the conditions in which the 
+automobile industry currently finds itself, this alone is enough to make the differ-
+ence between profit and loss.
+ This example illustrates the frequently encountered failure to take a wider view 
+of cost. For many companies their definition of cost is limited only to those costs 
+that are contained within the four walls of their business entity. However, as has 
+been suggested earlier, since today’s competition takes place not between com-
+panies but between supply chains the proper view of costs has to be ‘end-to-end’ 
+since all costs will ultimately be reflected in the price of the finished product in the 
+final marketplace.
+Days of inventory
+120
+Customer
+100
+80
+60
+40
+20
+0
+Marketplace
+Outbound transit
+Loading and despatch
+Vehicle production WIP
+On-site part (VM)
+Inbound transit
+Finished components
+Assembly WIP
+Pre-assembly WIP
+In-house built parts
+Bought-out parts
+Raw materials
+Inbound
+logistics
+Vehicle
+manufacturers
+Outbound
+logistics
+First tier
+supplier
+Maximum Average Minimum
+Distribution
+and retail
+Figure 1.12 Inventory profile of the automotive supply chain
+Source: Holweg, M. and Pil, F.K., The Second Century, MIT Press, 2004
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T22
+ The need to take a supply chain view of cost is further underscored by the 
+major trend that is observable across industries worldwide towards outsourcing. 
+For many companies today, most of their costs lie outside their legal boundaries; 
+activities that used to be performed in-house are now outsourced to specialist 
+service providers. The amazing growth of contract manufacturing in electronics 
+bears witness to this trend. If the majority of an organisation’s costs lie outside the 
+business then it follows that the biggest opportunities for improvement in their cost 
+position will also be found in that wider supply chain.
+The customers take control
+So much has been written and talked about service, quality and excellence that 
+there is no escaping the fact that the customer in today’s marketplace is more 
+demanding, not just of product quality, but also of service.
+ As more and more markets become in effect ‘commodity’ markets, where the 
+customer perceives little technical difference between competing offers, the need 
+is for the creation of differential advantage through added value. Increasingly a 
+prime source of this added value is through customer service.
+Customer service may be defined as the consistent provision of time and place 
+utility. In other words, products don’t have value until they are in the hands of the 
+customer at the time and place required. There are clearly many facets of customer 
+service, ranging from on-time delivery through to after-sales support. Essentially the 
+role of customer service should be to enhance ‘value-in-use’, meaning that the prod-
+uct becomes worth more in the eyes of the customer because service has added 
+value to the core product. In this way significant differentiation of the total offer (that 
+is the core product plus the service package) can be achieved.
+ Those companies that have achieved recognition for service excellence, 
+and thus have been able to establish a differential advantage over their com-
+petition, are typically those companies where logistics management is a high 
+priority. Companies like Xerox, Zara and Dell are typical of such organisations. The 
+achievement of competitive advantage through service comes not from slogans or 
+expensive so-called customer care programmes, but rather from a combination of 
+a carefully thought-out strategy for service, the development of appropriate deliv-
+ery systems and commitment from people, from the chief executive down.
+ The attainment of service excellence in this broad sense can only be achieved 
+through a closely integrated logistics strategy. In reality, the ability to become a 
+market leader depends as much upon the effectiveness of one’s operating sys-
+tems as it does upon the presentation of the product, the creation of images 
+and the influencing of consumer perceptions. In other words, the success of 
+McDonald’s, WalMart or any of the other frequently cited paragons of service 
+The customer in today’s marketplace is more demanding, not just of product 
+quality, but also of service.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 23
+excellence is due not to their choice of advertising agency, but rather to their rec-
+ognition that managing the logistics of service delivery on a consistent basis is the 
+crucial source of differential advantage.
+Managing the ‘4Rs’
+As we move rapidly into the era of supply chain competition a number of principles 
+emerge to guide the supply chain manager. These can be conveniently summa-
+rised as the ‘4Rs’ of responsiveness, reliability, resilience and relationships.
+1 Responsiveness
+In today’s just-in-time world the ability to respond to customers’ requirements in 
+ever-shorter time-frames has become critical. Not only do customers want shorter 
+lead times, they are also looking for flexibility and increasingly customised solutions. 
+In other words, the supplier has to be able to meet the precise needs of customers 
+in less time than ever before. The key word in this changed environment is agility . 
+Agility implies the ability to move quickly and to meet customer demand sooner. In a 
+fast-changing marketplace agility is actually more important than long-term planning 
+in its traditional form. Because future demand patterns are uncertain, by definition 
+this makes planning more difficult and, in a sense, hazardous.
+ In the future, organisations must be much more demand-driven  than forecast-
+driven . The means of making this transition will be through the achievement of 
+agility, not just within the company but across the supply chain. Responsiveness 
+also implies that the organisation is close to the customer, hearing the voice of the 
+market and quick to interpret the demand signals it receives.
+2 Reliability
+One of the main reasons why any company carries safety stock is because of 
+uncertainty. It may be uncertainty about future demand or uncertainty about a 
+supplier’s ability to meet a delivery promise, or about the quality of materials or 
+components. Significant improvements in reliability can only be achieved through 
+re-engineering the processes that impact performance. Manufacturing managers 
+long ago discovered that the best way to improve product quality was not by qual-
+ity control through inspection but rather to focus on process control. The same is 
+true for logistics reliability.
+ One of the keys to improving supply chain reliability is through reducing proc-
+ess variability. In recent years there has been a considerable increase in the use of 
+so-called ‘six sigma’ methodologies. The concept of six sigma will be discussed 
+in more detail in Chapter 10 but in essence these tools are designed to enable 
+variability in a process to be reduced and controlled. Thus, for example, if there is 
+variability in order processing lead times then the causes of that variability can be 
+identified and where necessary the process can be changed and brought under 
+control through the use of six sigma tools and procedures.
+ 
+L O G I S T I C S  &  S U P P L Y  C H A I N  M A N A G E M E N T24
+3 Resilience
+Today’s marketplace is characterised by higher levels of turbulence and volatil-
+ity. The wider business, economic and political environments are increasingly 
+subjected to unexpected shocks and discontinuities. As a result, supply chains 
+are vulnerable to disruption and, in consequence, the risk to business continuity  
+is increased.
+ Whereas in the past the prime objective in supply chain design was probably 
+cost minimisation or possibly service optimisation, the emphasis today has to be 
+upon resilience. Resilience refers to the ability of the supply chain to cope with 
+unexpected disturbances. There is evidence that the tendencies of many compa-
+nies to seek out low-cost solutions because of pressure on margins may have led 
+to leaner, but more vulnerable, supply chains.
+ Resilient supply chains may not be the lowest-cost supply chains but they 
+are more capable of coping with the uncertain business environment. Resilient 
+supply chains have a number of characteristics, of which the most important is 
+a business-wide recognition of where the supply chain is at its most vulnerable. 
+Managing the critical nodes and links of a supply chain, to be discussed further in 
+Chapter 10, becomes a key priority. Sometimes these ‘critical paths’ may be where 
+there is dependence on a single supplier, or a supplier with long replenishment 
+lead times, or a bottleneck in a process.
+ Other characteristics of resilient supply chains are their recognition of the impor-
+tance of strategic inventory and the selective use of spare capacity to cope with 
+‘surge’ effects.
+4 Relationships
+The trend towards customers seeking to reduce their supplier base has already 
+been commented upon. In many industries the practice of ‘partnership sourcing’ 
+is widespread. It is usually suggested that the benefits of such practices include 
+improved quality, innovation sharing, reduced costs and integrated scheduling 
+of production and deliveries. Underlying all of this is the idea that buyer/supplier 
+relationships should be based upon partnership. Increasingly companies are discov-
+ering the advantages that can be gained by seeking mutually beneficial, long-term 
+relationships with suppliers. From the suppliers’ point of view, such partnerships 
+can prove formidable barriers to entry for competitors. The more that processes are 
+linked between the supplier and the customer the more the mutual dependencies 
+increase and hence the more difficult it is for competitors to break in.
+ Supply chain management by definition is about the management of relation-
+ships across complex networks of companies that, whilst legally independent, are 
+in reality interdependent. Successful supply chains will be those that are governed 
+by a constant search for win-win solutions based upon mutuality and trust. This is 
+not a model of relationships that has typically prevailed in the past. It is one that 
+will have to prevail in the future as supply chain competition becomes the norm.
+ These four themes of responsiveness, reliability, resilience and relationships 
+provide the basis for successful logistics and supply chain management. They are 
+themes that will be explored in greater detail later in this book.
+ 
+LO G I S T I C S ,  T H E  S U P P LY  C H A I N  A N D  C O M P E T I T I V E  S T R AT E GY 25
+References
+1. Bowler, R.A., Logistics and the Failure of the British Army in America 1775–1783, 
+Princeton University Press, 1975.
+2. Shaw, A.W., Some Problems in Market Distribution , Harvard University Press, 1915.
+3. Aitken, J., Supply Chain Integration within the Context of a Supplier Association, 
+Cranfield University, Ph.D. thesis, 1998.
+4. Porter, M.E.,Competitive Strategy, The Free Press, 1980. 
+5. Porter, M.T.,Competitive Advantage, The Free Press, 1985, p.33.
+6. Stalk, G., Evans, P. and Shulman, L.E., ‘Competing on capabilities: the new 
+rule of corporate strategy’, Harvard Business Review, March–April 1992; 
+Prahalad, C. and Hamel, G., ‘The core competence of the corporation’, Harvard 
+Business Review, May–June 1990.
+7. Borsodi, R., The Distribution Age, D. Appleton & Co, 1929.
+8. Holweg, M. and Pil, F.K., The Second Century, MIT Press, 2004.
+ 
+ 
+27
+Earlier in Chapter 1 the mission of logistics management was defined simply in 
+terms of providing the means whereby customers’ service requirements are met 
+at lowest cost. In other words the ultimate purpose of any logistics system is to 
+satisfy customers. It is a simple idea that is not always easy to recognise if you are 
+a manager involved in activities such as production scheduling or inventory control 
+which may seem to be some distance away from the marketplace. The fact is of 
+course that everybody in the organisation has a stake in customer service. Indeed 
+many successful companies have started to examine their internal service stand-
+ards in order that everyone who works in the business understands that they must 
+service someone – if they don’t, why are they on the payroll?
+ The objective should be to establish a chain of customers that links people at all 
+levels in the organisation directly or indirectly to the marketplace. 1  Xerox is a com-
+pany that has worked hard to implement the idea of the internal customer. They 
+have even extended the idea to the point of linking bonuses to an index of customer 
+satisfaction. In organisations like Xerox, managing the customer service chain 
+through the business and onwards is the central concern of logistics management.
+Logistics and  
+customer value 2
+M MThe marketing and logistics interface
+M MDelivering customer value
+M MWhat is customer service?
+M MThe impact of out-of-stock
+M MCustomer service and customer retention
+M MMarket-driven supply chains
+M MDefining customer service objectives
+M MSetting customer service priorities
+M MSetting service standards

@@ -1,0 +1,1445 @@
+--- PAGE 1 ---
+
+
+--- PAGE 2 ---
+Supply Chain Management
+Strategy , Planning , and  OPeratiOn
+Sixth Edition
+
+--- PAGE 3 ---
+         This page is intentionally left blank.
+
+--- PAGE 4 ---
+Supply Chain Management
+Strategy , Planning , and  OPeratiOn
+Sixth Edition
+Sunil Chopra
+Kellogg School of Management
+Peter Meindl
+Kepos Capital
+Dharam Vir Kalra
+Guest Faculty
+Indian Institute of Management Rohtak
+Delhi • Chennai
+
+--- PAGE 5 ---
+Copyright © 2016 Pearson India Education Services Pvt. Ltd
+ISBN: 
+Published by Pearson India Education Services Pvt. Ltd, CIN: U72200TN2005PTC057128, formerly 
+known as TutorVista Global Pvt. Ltd, licensee of Pearson Education in South Asia
+No part of this eBook may be used or reproduced in any manner whatsoever without the publisher’s prior 
+written consent. 
+This eBook may or may not include all assets that were part of the print version. The publisher reserves the 
+right to remove any material in this eBook at any time. 
+Head Office: A-8 (A), 7th Floor, Knowledge Boulevard, Sector 62, Noida 201 309, Uttar Pradesh, India.
+Registered Office: Module G4, Ground Floor, Elnet Software City, TS-140, Block 2
+Salai, Taramani, Chennai 600 113, Tamil Nadu, India. 
+Fax:  080-30461003, Phone: 080-30461060 
+www.pearson.co.in, Email: companysecretary.india@pearson.com 
+eISBN: 978-93-325-8267-5 
+ & 9 Rajiv Gandhi
+978-93-325-4823-7
+
+--- PAGE 6 ---
+Dedication
+I would like to thank my colleagues at Kellogg for all I have learned from 
+them about logistics and supply chain management. I am grateful for the love 
+and encouragement that my parents, Krishan and Pushpa, and sisters, Sudha 
+and Swati, have always provided during every endeavor in my life. I thank my 
+children, Ravi and Rajiv, for the joy they have brought me. Finally, none of this 
+would have been possible without the constant love, caring, and support  
+of my wife, Maria Cristina.
+—Sunil Chopra
+I would like to thank three mentors—Sunil Chopra, Hau Lee, and Gerry 
+Lieberman—who have taught me a great deal. Thank you also to my parents 
+and sister for their love, and to my sons, Jamie and Eric, for making me smile 
+and teaching me what life is truly all about. Most important, I thank my wife, 
+Sarah, who makes life wonderful and whom I love with all my heart.
+—Peter Meindl
+I would like to dedicate this work to my dear wife Sunil and my adorable 
+daughters, Ruma and Anju, who have been a constant source of support and 
+encouragement. I love them dearly.
+—Dharam Vir Kalra
+
+--- PAGE 7 ---
+         This page is intentionally left blank.
+
+--- PAGE 8 ---
+ABOUT THE AUTHORS
+SUNIL CHOPRA
+Sunil Chopra is the IBM Distinguished Professor of Operations Management and 
+ Information Systems at the Kellogg School of Management. He has served as the interim 
+dean and senior associate dean for curriculum and teaching, and the codirector of the 
+MMM program, a joint dual-degree program between the Kellogg School of Manage-
+ment and the McCormick School of Engineering at Northwestern University. He has a 
+PhD in operations research from SUNY at Stony Brook. Prior to joining Kellogg, he 
+taught at New York University and spent a year at IBM Research.
+Professor Chopra’s research and teaching interests are in supply chain and logistics 
+management, operations management, and the design of telecommunication networks. 
+He has won several teaching awards at the MBA and Executive programs of Kellogg. He 
+has authored more than 40 papers and two books.
+He has been a department editor for Management Science and an associate editor 
+for Manufacturing & Service Operations Management, Operations Research, and Deci-
+sion  Sciences Journal. His recent research has focused on understanding supply chain 
+risk and devising  effective risk mitigation strategies. He has also consulted for several 
+firms in the area of supply chain and operations management.
+PETER MEINDL
+Peter Meindl is a portfolio manager with Kepos Capital in New York. Previously, he was 
+a research officer with Barclays Global Investors, a consultant with the Boston Consult-
+ing Group and Mercer Management Consulting, and the director of strategy with  
+i2  Technologies. He holds PhD, MS, BS, and BA degrees from Stanford, and an MBA 
+from the Kellogg School of Management at Northwestern.
+DHARAM VIR KALRA
+Dharam Vir Kalra retired from the Indian Army as Lieutenant General in 1993. During 
+his service, he held various prestigious positions in the field of logistics. He was Major 
+General Operational Logistics, and Commandant and Principal in College of Materials 
+Management, Jabalpur. He then rose to become Director General Ordnance Services.
+General Kalra obtained his M.Sc. in Defence Studies from Madras University. He 
+also obtained Master’s degrees in Political Science and Business Administration (Materials) 
+from Jabalpur University. A graduate of the Defence Services Staff College, he also 
+attended the Long Defence Management Course and the National Defence College Course. 
+He completed a specialist course at the Royal Military College of Science, Shrivenham 
+(UK). He has recently obtained an M.Phil Degree from the University of Madras.
+Apart from his military service, General Kalra has been Dean, Faculty of Management, 
+Jabalpur University; Consultant, Ministry of Defence, Government of India; Consultant, Comptroller 
+and Auditor General of India; and Member, National Audit Advisory Board. He is a fellow of the 
+Chartered Institute of Logistics and Transport (UK) and Indian Management Association, and also a 
+Member Board of Studies of Indian Institute of Materials Management.
+Currently, he is a guest faculty for Supply Chain Management and International Logistics 
+at the Indian Institute of Management Rohtak.
+General Kalra was decorated with an Ati Vishisht Seva Medal by the President of India in 
+1988 and with Param Vishisht Seva Medal in 1992 for services of an exceptional order.
+
+
+--- PAGE 9 ---
+         This page is intentionally left blank.
+
+--- PAGE 10 ---
+CONTENTS
+Preface xvii
+Part I Building a Strategic Framework to Analyze Supply Chains
+ Chapter 1 UNDERSTANDING THE SUPPLY CHAIN 1
+1.1 What Is a Supply Chain? 1
+1.2 Historical Perspective 3
+1.3 The Objective of a Supply Chain 5
+1.4 The Importance of Supply Chain Decisions 7
+1.5 Decision Phases in a Supply Chain 9
+1.6 Process Views of a Supply Chain 11
+1.7 Examples of Supply Chains 16
+1.8 Summary of Learning Objectives 22
+Discussion Questions 22 • Bibliography 23
+ Chapter 2 SUPPLY CHAIN PERFORMANCE: ACHIEVING STRATEGIC FIT AND SCOPE 25
+2.1 Competitive and Supply Chain Strategies 25
+2.2 Achieving Strategic Fit 27
+2.3 Expanding Strategic Scope 37
+2.4 Challenges to Achieving and Maintaining  Strategic Fit 40
+2.5 Achieving and Maintaining Strategic Fit in Emerging 
+Retail Markets: The Indian Scenario 41
+2.6 The Experience 43
+2.7 Adaptation 43
+2.8 Summary of Learning Objectives 44
+Discussion Questions 45 • Bibliography 45
+▶ CASE STUDY: The Demise of Blockbuster 46
+▶ CASE STUDY: Rise and Fall of Subhiksha 48
+ Chapter 3 SUPPLY CHAIN DRIVERS AND METRICS 49
+3.1 Impellers of Supply Chain 49
+3.2 Financial Measures of Performance 51
+3.3 Drivers of Supply Chain Performance 55
+3.4 Framework for Structuring Drivers 57
+3.5 Facilities 58
+3.6 Inventory 60
+3.7 Transportation 63
+3.8 Information 64
+3.9 Sourcing 67
+3.10 Pricing 68
+3.11 Infrastructure 70
+3.12 International Logistics 72
+
+--- PAGE 11 ---
+x Contents
+3.13 Summary of Learning Objectives 73
+Discussion Questions 74 • Bibliography 74
+▶ CASE STUDY: Seven-Eleven Japan Co. 75
+▶ CASE STUDY:  Financial Statements for Walmart Stores Inc. and  Macy’s Inc. 81
+Part II Designing the Supply Chain Network
+ Chapter 4 DESIGNING DISTRIBUTION NETWORKS AND APPLICATIONS TO ONLINE 
+SALES 83
+4.1 The Role of Distribution in the Supply Chain 83
+4.2 Factors Influencing Distribution Network Design 85
+4.3 Design Options for a Distribution Network 88
+4.4 Online Sales and the Distribution Network 101
+4.5  Indian Agricultural Produce Distribution Channels: Ripe for Major Transformation 114
+4.6 Indian Fmcg Sector-distribution Channels 118
+4.7 Indian Commodities Distribution Channels 119
+4.8 Distribution Networks in Practice 119
+4.9 Summary of Learning Objectives 120
+Discussion Questions 121 • Bibliography 122
+▶ CASE STUDY: Blue Nile and Diamond Retailing 122
+ Chapter 5 NETWORK DESIGN IN THE SUPPLY CHAIN 130
+5.1 The Role of Network Design in the Supply Chain 130
+5.2 Factors Influencing Network Design Decisions 131
+5.3 Framework for Network Design Decisions 136
+5.4 Models for Facility Location and Capacity Allocation 139
+5.5 Jaipur Rugs–networking Tradition with Modernity 154
+5.6 Making Network Design Decisions in Practice 159
+5.7 The Impact of Uncertainty on Network Design 160
+5.8 Summary of Learning Objectives 162
+Discussion Questions 162 • Exercises 163 • Bibliography 167
+▶ CASE STUDY: Managing Growth at SportStuff.com 168
+▶ CASE STUDY: Designing the Production Network at CoolWipes 170
+ Chapter 6 DESIGNING GLOBAL SUPPLY CHAIN NETWORKS 172
+6.1 The Impact of Globalization on Supply Chain Networks 172
+6.2 The Offshoring Decision: Total Cost 174
+6.3 Risk Management in Global Supply Chains 177
+6.4 Discounted Cash Flows 181
+6.5 Evaluating Network Design Decisions Using Decision Trees 183
+6.6 To Onshore or Offshore: Evaluation of Global Supply Chain Design Decisions Under 
+Uncertainty 190
+6.7 Making Global Supply Chain Design Decisions Under Uncertainty in Practice 198
+6.8 Summary of Learning Objectives 199
+Discussion Questions 200 • Exercises 200 • Bibliography 201
+▶ CASE STUDY: BioPharma, Inc. 203
+▶ CASE STUDY: The Sourcing Decision at Forever Young 205
+
+--- PAGE 12 ---
+ Contents xi
+Part III Planning and Coordinating Demand and Supply in a Supply Chain 
+ Chapter 7 DEMAND FORECASTING IN A SUPPLY CHAIN 206
+7.1 The Role of Forecasting in a Supply Chain 206
+7.2 Characteristics of Forecasts 207
+7.3 Components of a Forecast and Forecasting Methods 208
+7.4 Basic Approach to Demand Forecasting 209
+7.5 Time-Series Forecasting Methods 211
+7.6 Measures of Forecast Error 221
+7.7 Selecting the Best Smoothing Constant 224
+7.8 Forecasting Demand at Tahoe Salt 226
+7.9 The Role of IT in Forecasting 231
+7.10 Forecasting in Practice 232
+7.11 Summary of Learning Objectives 233
+Discussion Questions 233 • Exercises 234 • Bibliography 235
+▶ CASE STUDY: Specialty Packaging Corporation 236
+ Chapter 8 AGGREGATE PLANNING IN A SUPPLY CHAIN 238
+8.1 The Role of Aggregate Planning in a Supply Chain 238
+8.2 The Aggregate Planning Problem 240
+8.3 Aggregate Planning Strategies 242
+8.4 Aggregate Planning at Red Tomato Tools 243
+8.5 Aggregate Planning Using Linear Programming 244
+8.6 Aggregate Planning in Excel 249
+8.7 Building a Rough Master Production Schedule 253
+8.8 The Role of IT in Aggregate Planning 254
+8.9 Inventory Planning and Economic Theory Aberrations 254
+8.10 Implementing Aggregate Planning in Practice 256
+8.11 Summary of Learning Objectives 257
+Discussion Questions 258 • Exercises 258 • Bibliography 260
+▶ CASE STUDY: Kloss Planters and Harvesters 260
+ Chapter 9 SALES AND OPERATIONS PLANNING: PLANNING SUPPLY AND DEMAND IN 
+A SUPPLY CHAIN 262
+9.1 Responding to Predictable Variability in the Supply Chain 262
+9.2 Managing Supply 263
+9.3 Managing Demand 265
+9.4 Sales and Operations Planning at Red Tomato 266
+9.5 Implementing Sales and Operations Planning in Practice 272
+9.6 Tackling Predictable Variability in Practice—Indian Sugar Industry 273
+9.7 Summary of Learning Objectives 275
+Discussion Questions 275 • Exercises 275 • Bibliography 277
+▶ CASE STUDY: Mintendo Game Girl 278
+▶ CASE STUDY: Promotion Challenges at Gulmarg Skis 279
+
+--- PAGE 13 ---
+xii Contents
+ Chapter 10 COORDINATION IN A SUPPLY CHAIN 281
+10.1 Lack of Supply Chain Coordination and the Bullwhip Effect 281
+10.2 The Effect on Performance of Lack of Coordination 283
+10.3 Obstacles to Coordination in a Supply Chain 285
+10.4 Managerial Levers to Achieve Coordination 289
+10.5 Continuous Replenishment and Vendor-Managed Inventories 294
+10.6 Collaborative Planning, Forecasting, and Replenishment 294
+10.7 Collaborative Planning, Forecasting, and Replenishment—Indian Experiences 298
+10.8 Achieving Coordination in Practice 299
+10.9 Summary of Learning Objectives 300
+Discussion Questions 301 • Bibliography 301
+Part IV Planning and Managing Inventories in a Supply Chain 
+ Chapter 11 MANAGING ECONOMIES OF SCALE IN A SUPPLY CHAIN: CYCLE 
+INVENTORY 302
+11.1 The Role of Cycle Inventory in a Supply Chain 302
+11.2 Estimating Cycle Inventory-Related Costs in Practice 305
+11.3 Economies of Scale to Exploit Fixed Costs 307
+11.4 Aggregating Multiple Products in a Single Order 312
+11.5 Economies of Scale to Exploit Quantity Discounts 320
+11.6 Short-Term Discounting: Trade Promotions 331
+11.7 Managing Multiechelon Cycle Inventory 336
+11.8 Cycle Inventory Optimisation in Indian Distribution Channels 339
+11.9 Summary of Learning Objectives 341
+Discussion Questions 341 • Exercises 342 • Bibliography 345
+▶ CASE STUDY: Delivery Strategy at MoonChem 346
+▶ CASE STUDY: Pricing and Delivery at KAR Foods 348
+Appendix 11A: Economic Order Quantity 349
+ Chapter 12 MANAGING UNCERTAINTY IN A SUPPLY CHAIN: SAFETY INVENTORY 350
+12.1 The Role of Safety Inventory in a Supply Chain 350
+12.2 Factors Affecting the Level of Safety Inventory 352
+12.3 Determining the Appropriate Level of Safety Inventory 354
+12.4 Impact of Supply Uncertainty on Safety Inventory 363
+12.5 Impact of Aggregation on Safety Inventory 366
+12.6 Managing Uncertainty in Supply Chain Through Postponement—Indian 
+Paint Industry 378
+12.7 Impact of Replenishment Policies on Safety Inventory 379
+12.8 Managing Safety Inventory in a Multiechelon Supply Chain 382
+12.9 The Role of IT in Inventory Management 383
+12.10 Estimating and Managing Safety Inventory in Practice 384
+12.11 Summary of Learning Objectives 385
+Discussion Questions 386 • Exercises 386 • Bibliography 390
+
+--- PAGE 14 ---
+ Contents xiii
+▶ CASE STUDY: Managing Inventories at ALKO Inc. 390
+▶ CASE STUDY: Should Packing Be Postponed to the DC? 392
+Appendix 12A: The Normal Distribution 394
+Appendix 12B: The Normal Distribution in Excel 395
+Appendix 12C: Expected Shortage per Replenishment Cycle 395
+Appendix 12D:  Evaluating Safety Inventory for Slow-Moving Items 396
+ Chapter 13 DETERMINING THE OPTIMAL LEVEL OF PRODUCT AVAILABILITY 398
+13.1 The Importance of the Level of Product Availability 398
+13.2 Factors Affecting Optimal Level of Product Availability 399
+13.3 Managerial Levers to Improve Supply Chain Profitability 409
+13.4 Setting Product Availability for Multiple Products Under Capacity 
+Constraints 423
+13.5 Optimising Availability of Maintenance, Repair, and Operations Inventories 425
+13.6 Setting Optimal Levels of Product Availability in Practice 428
+13.7 Summary of Learning Objectives 428
+Discussion Questions 429 • Exercises 429 • Bibliography 431
+▶ CASE STUDY: The Need for Speed at Winner Apparel 432
+Appendix 13A: Optimal Level of Product Availability 433
+Appendix 13B: An Intermediate Evaluation 434
+Appendix 13C: Expected Profit from an Order 435
+Appendix 13D: Expected Overstock from an Order 435
+Appendix 13E: Expected Understock from an Order 436
+Appendix 13F: Simulation Using Spreadsheets 436
+Part V Designing and Planning Transportation Networks 
+ Chapter 14 TRANSPORTATION IN A SUPPLY CHAIN 439
+14.1 The Role of Transportation in a Supply Chain 439
+14.2 Modes of Transportation and Their Performance Characteristics 441
+14.3 Transportation Infrastructure and Policies 445
+14.4 Design Options for a Transportation Network 448
+14.5 Mumbai Dabbawalas: A Highly Responsive Distribution Network 454
+14.6 Trade-Offs in Transportation Design 455
+14.7 Tailored Transportation 464
+14.8 The Role of IT in Transportation 466
+14.9 Making Transportation Decisions in Practice 467
+14.10 Summary of Learning Objectives 468
+Discussion Questions 468 • Bibliography 469
+▶ CASE STUDY:  Designing the Distribution Network for Michael’s Hardware 469
+▶ CASE STUDY:  The Future of Same-Day Delivery: Same as the Past? 470
+▶ CASE STUDY: Selecting Transportation Modes for China Imports 471
+Appendix 14A: Transporting The Transport 472
+Appendix 14B: Gopaljee: Milk Run for Milk 479
+
+--- PAGE 15 ---
+xiv Contents
+Part VI Managing Cross-Functional Drivers in a Supply Chain
+ Chapter 15 SOURCING DECISIONS IN A SUPPLY CHAIN 483
+15.1 The Role of Sourcing in a Supply Chain 483
+15.2 In-House or Outsource? 485
+15.3 Examples of Successful Third-Party Suppliers 491
+15.4 Total Cost of Ownership 493
+15.5 Supplier Selection—Auctions and Negotiations 496
+15.6 Sharing Risk and Reward in the Supply Chain 498
+15.7 The Impact of Incentives When Outsourcing 509
+15.8 Designing a Sourcing Portfolio: Tailored Sourcing 510
+15.9 Making Sourcing Decisions in Practice 513
+15.10 Summary of Learning Objectives 514
+Discussion Questions 515 • Exercises 515 • Bibliography 516
+ Chapter 16 PRICING AND REVENUE MANAGEMENT IN A SUPPLY CHAIN 518
+16.1 The Role of Pricing and Revenue Management in a Supply Chain 518
+16.2 Pricing and Revenue Management for Multiple Customer Segments 520
+16.3 Pricing and Revenue Management for Perishable Assets 527
+16.4 Pricing and Revenue Management for Seasonal Demand 534
+16.5 Pricing and Revenue Management for Bulk and Spot Contracts 534
+16.6 Using Pricing and Revenue Management in Practice 536
+16.7 Agriculture Produce Pricing and Marketing in India 537
+16.8 Summary of Learning Objectives 537
+Discussion Questions 538 •  Exercises 538 • Bibliography 539
+▶ CASE STUDY: To Savor or to Groupon? 540
+ Chapter 17 SUSTAINABILITY AND THE SUPPLY CHAIN 542
+17.1 The Role of Sustainability in a Supply Chain 542
+17.2 The Tragedy of the Commons 544
+17.3 Key Pillars of Sustainability 547
+17.4 Sustainability and Supply Chain Drivers 550
+17.5 Closed-Loop Supply Chains 554
+17.6 The Pricing of Sustainability 555
+17.7 Summary of Learning Objectives 557
+Discussion Questions 558 • Bibliography 558
+▶ CASE STUDY: Sustainable Supply Chains—Indian Efforts 559
+▶ CASE STUDY: HUL—A Sustainable Supply Chain 559
+▶ CASE STUDY: Future of Supply Chains 560
+
+--- PAGE 16 ---
+ Contents xv
+Part VII Online Chapter
+ Chapter A INFORMATION TECHNOLOGY IN A SUPPLY CHAIN 
+The Role of IT in a Supply Chain
+The Supply Chain IT Framework
+Customer Relationship Management
+Internal Supply Chain Management
+Supplier Relationship Management
+The Transaction Management Foundation
+The Future of IT in the Supply Chain
+Risk Management in IT
+Supply Chain IT in Practice
+Summary of Learning Objectives
+Discussion Questions • Bibliography
+Index 563
+
+--- PAGE 17 ---
+         This page is intentionally left blank.
+
+--- PAGE 18 ---
+PREFACE
+This book is targeted toward an academic as well as a practitioner audience. On the academic side, it should be appropriate 
+for MBA students, engineering master’s students, and senior undergraduate students interested in supply chain manage-
+ment and logistics. It should also serve as a suitable reference for both concepts as well as providing a methodology for 
+practitioners in consulting and industry.
+NEW TO THIS EDITION
+The sixth edition has focused on allowing students to learn more as they study with the book. We have tightened the link between 
+examples in the book and associated spreadsheets and have added exercises and cases in several chapters. We have also added 
+changes based on specific reviewer feedback that we believe significantly improve the book and its use by faculty and students.
+• We have added several new mini-cases throughout the book. New cases appear in Chapters 2, 8, 9, 11, 13, 14, and 16. 
+Information in other cases has been updated to be current.
+• In Chapter 11, we have added several new exercises as well as a mini-case.
+• In Chapter 12, we have added several new exercises.
+• In Chapter 13, we have tried to make the flow of material easier to follow. Given the more advanced concepts, we have 
+tightened the linkage to the associated spreadsheets. We have also added a mini-case.
+• In Chapter 14, we have added discussion of the Mumbai dabbawalas, a responsive distribution network. We have tight-
+ened the linkage of examples to associated spreadsheets and added a couple of mini-cases.
+• Chapter 15 has had a very significant revision, with an enhanced discussion of successful third parties as well as the 
+impact of incentives and the sharing of risk and reward in the supply chain.
+• Chapter 16 has a new mini-case.
+• Information Technology in a Supply Chain has been updated and placed online at www.pearsoned.co.in/SunilChopra.
+• Chapter 17, on sustainability, has been further developed, with a new section related to the pricing of sustainability.
+• We have continued to add current examples throughout the book, with a particular focus on bringing in more global 
+examples.
+The goal of this class was not only to cover high-level supply chain strategy and concepts, but also to give students 
+a solid understanding of the analytical tools necessary to solve supply chain problems. With this class goal in mind, our 
+objective was to create a book that would develop an understanding of the following key areas and their interrelationships:
+• The strategic role of a supply chain
+• The key strategic drivers of supply chain performance
+• Analytic methodologies for supply chain analysis
+Our first objective in this book is for the reader to learn the strategic importance of good supply chain design, planning, 
+and operation for every firm. The reader will be able to understand how good supply chain management can be a competi-
+tive advantage, whereas weaknesses in the  supply chain can hurt the performance of a firm. We use many examples to 
+illustrate this idea and develop a framework for supply chain strategy.
+Within the strategic framework, we identify facilities, inventory, transportation, information, sourcing, and pric -
+ing as the key drivers of supply chain performance. Our second goal in the book is to convey how these drivers may be 
+used on conceptual and practical levels during supply chain design, planning, and operation to improve performance. 
+We have presented a variety of cases that can be used to illustrate how a company uses various drivers to improve sup -
+ply chain performance. For each driver of supply chain performance, our goal is to provide readers with practical 
+managerial levers and concepts that may be used to improve supply chain performance.
+Using these managerial levers requires knowledge of analytic methodologies for supply chain analysis. Our third 
+goal is to give the reader an understanding of these methodologies. Every methodological discussion is illustrated with its 
+application in Excel. In this discussion, we also stress the managerial context in which the methodology is used and the 
+managerial levers for improvement that it supports.
+The strategic frameworks and concepts discussed in the book are tied together through a variety of examples that 
+show how a combination of concepts is needed to achieve significant increases in performance.
+
+--- PAGE 19 ---
+xviii Preface
+ONLINE SUPPLEMENTS
+Instructors can easily register to gain access to a variety of instructor resources available with this text in downloadable 
+format.
+The following supplements are available with this text:
+• Instructor’s Solutions Manual
+• Test Bank
+• TestGen
+® Computerized Test Bank
+• PowerPoint Presentations
+Chapter A: Information Technology in a Supply Chain  is available online for students.
+Sunil Chopra
+Kellogg School of Management, Northwestern University
+Peter Meindl
+Kepos Capital
+This edition of the book, retains as its principal focus , the linking of general theory of supply chain management and the 
+practical experiences of businesses in the developed world with the ground realities in India, one of the world’s fastest 
+growing economies. This has helped produce a text with lessons of equal value for students of the subject across the globe.
+The  march of international trade towards ever-increasing spatial dispersion at both the supply and the demand ends 
+has been inexorable. In the process, it has embraced not only economies at different levels of development but also 
+diverse sociopolitical environments. This makes it imperative  for  the study of supply chain management to take a note 
+of the challenges that such diversities throw up, and also the solutions that are emerging under the relentless competi -
+tive pressures to which present-day businesses are exposed. 
+The digital revolution is perhaps the most challenging and game-changing development affecting the business 
+world. It has dawned on India at a time when its traditional supply chains are in a flux. This has added a new dimension 
+to the transformation process, making it a fit case for lessons in the ongoing evolutionary process. An attempt has been 
+made in this edition of the book to document the impact of this revolution as it unfolds.
+Rooted in the Indian ethos, the case studies and examples added to this book present a different perspective, thus 
+making the text multidimensional and enhancing  its practical utility for a wider readership.
+Dharam Vir Kalra
+Guest Faculty
+Indian Institute of  Management Rohtak
+
+--- PAGE 20 ---
+ Preface xix
+ACKNOWLEDGMENTS
+We would like to thank the many people who helped us throughout this process. We thank the reviewers whose suggestions 
+significantly improved the book, including: Steven Brown, Arizona State University; Ming Chen, California State Univer-
+sity, Long Beach; Sameer Kumar, University of Saint Thomas; Frank Montabon, Iowa State University; Brian Sauser, 
+University of North Texas; and Paul Venderspek, Colorado State University.
+We are grateful to the students at the Kellogg School of Management who suffered through typo-ridden drafts of 
+earlier versions of the book. We would also like to thank our editor, Dan Tylman, and the staff at Pearson, including Liz 
+Napolitano, senior production project manager; Anne Fahlgren, executive product marketing manager; Claudia Fernandes, 
+program manager; and Linda Albelli, editorial assistant, for their efforts with the book. Finally, we would like to thank 
+you, our readers, for reading and using this book. We hope it contributes to all your efforts to improve the performance of 
+companies and supply chains throughout the world. We would be pleased to hear your comments and suggestions for 
+future editions of this text.
+Sunil Chopra
+Kellogg School of Management, Northwestern University
+Peter Meindl
+Kepos Capital
+I am grateful to all the companies that have permitted me to draw upon and quote their experiences. Some of the 
+notable contributions have come from M/S Mercurio Pallia, M/S Fresh and Healthy, and M/S Kale Logistics. I would like to 
+thank  the authors who have graciously allowed me to incorporate their case studies and research papers in my adaptation. I 
+also gratefully acknowledge the useful inputs provided to me by Mr. Enamul Haque and Naveen Kumar. I extend my 
+gratitude to Professor Vivek Kumar for his encouragement and support throughout the production of this work and Dr. 
+Hema Yadav for her original contribution  My special thanks are due to Mr. N K Chaudhary of Jaipur Rugs who has built 
+a remarkable business model that reflects the Indian socio-economic realities. I also want to acknowledge the contribution 
+of Pricewaterhouse Coopers for allowing me to reproduce the Executive Summary of their very well-researched report 
+which provides a fitting finale to this edition of the book.
+Dharam Vir Kalra
+Guest Faculty
+Indian Institute of  Management Rohtak
+
+--- PAGE 21 ---
+         This page is intentionally left blank.
+
+--- PAGE 22 ---
+I
+n this chapter, we provide a conceptual understanding of what a supply chain is and the 
+various issues that need to be considered when designing, planning, or operating a supply 
+chain besides tracing its historical background. We discuss the significance of supply chain 
+decisions and supply chain performances for the success of a firm. We also provide several 
+examples from different industries to emphasize the variety of supply chain issues that compa-
+nies need to consider at the strategic, planning, and operational levels.
+1.1 WHAT IS A SUPPLY CHAIN?
+A supply chain consists of all parties involved, directly or indirectly, in fulfilling a customer 
+request. The supply chain includes not only the manufacturer and suppliers, but also transporters, 
+warehouses, retailers, and even customers themselves. Within each organization, such as a manu-
+facturer, the supply chain includes all functions involved in receiving and filling a customer 
+request. These functions include, but are not limited to, new product development, marketing, 
+operations, distribution, finance, and customer service.
+Consider a customer walking into a Walmart store to purchase detergent. The supply chain 
+begins with the customer and his or her need for detergent. The next stage of this supply chain is 
+the Walmart retail store that the customer visits. Walmart stocks its shelves using inventory that 
+Understanding the  
+Supply Chain
+CHAPTER  
+1
+LEARNING OBJECTIVES
+After reading this chapter, you will be able to
+1. Understand the nature of supply chains and 
+trace the historical perspectives leading to 
+their development and growth.
+2. Discuss the goal of a supply chain and 
+explain the impact of supply chain 
+decisions on the success of a firm.
+3. Identify the three key supply chain 
+decision phases and explain the 
+significance of each one.
+4. Describe the cycle and push/pull views of a 
+supply chain.
+5. Classify the supply chain macro processes 
+in a firm.
+
+--- PAGE 23 ---
+2 Chapter 1 • Understanding the Supply Chain
+may have been supplied from a finished-goods warehouse or a distributor using trucks supplied 
+by a third party. The distributor, in turn, is stocked by the manufacturer (say, Procter & Gamble 
+[P&G] in this case). The P&G manufacturing plant receives raw material from a variety of sup-
+pliers, which may themselves have been supplied by lower-tier suppliers. For example, packag-
+ing material may come from Pactiv Corporation, whereas Pactiv receives raw materials to 
+manufacture the packaging from other suppliers. This supply chain is illustrated in Figure 1-1, 
+with the arrows corresponding to the direction of physical product flow.
+A supply chain is dynamic and involves the constant flow of information, product, and 
+funds among different stages. In our example, Walmart provides the product, as well as pric -
+ing and availability information, to the customer. The customer transfers funds to Walmart. 
+Walmart conveys point-of-sales data and replenishment orders to the warehouse or distribu-
+tor, which transfers the replenishment order via trucks back to the store. Walmart transfers 
+funds to the distributor after the replenishment. The distributor also provides pricing infor -
+mation and sends delivery schedules to Walmart. Walmart may send back packaging mate-
+rial to be recycled. Similar information, material, and fund flows take place across the entire 
+supply chain.
+In another example, when a customer makes a purchase online from Amazon, the supply 
+chain includes, among others, the customer, Amazon’s website, the Amazon warehouse, and all 
+of Amazon’s suppliers and their suppliers. The website provides the customer with information 
+regarding pricing, product variety, and product availability. After making a product choice, the 
+customer enters the order information and pays for the product. The customer may later return 
+to the website to check the status of the order. Stages further up the supply chain use customer 
+order information to fill the request. That process involves an additional flow of information, 
+product, and funds among various stages of the supply chain.
+These examples illustrate that the customer is an integral part of the supply chain. In fact, 
+the primary purpose of any supply chain is to satisfy customer needs and, in the process, generate 
+profit for itself. The term supply chain conjures up images of product or supply moving from 
+suppliers to manufacturers to distributors to retailers to customers along a chain. This is certainly 
+part of the supply chain, but it is also important to visualize information, funds, and product 
+flows along both directions of this chain. The term supply chain may also imply that only one 
+player is involved at each stage. In reality, a manufacturer may receive material from several sup-
+pliers and then supply several distributors. Thus, most supply chains are actually networks. It 
+may be more accurate to use the term supply network or supply web to describe the structure of 
+most supply chains, as shown in Figure 1-2.
+CustomerWalmart
+Store
+Walmart
+or Third 
+Party DC
+P&G or Other
+Manufacturer
+Timber
+Company
+Paper
+Manufacturer
+Pactiv
+Corporation
+Chemical
+Manufacturer
+Plastic
+Producer
+FIGURE 1-1 Stages of a Detergent Supply Chain
+
+--- PAGE 24 ---
+ Chapter 1 • Understanding the Supply Chain 3
+A typical supply chain may involve a variety of stages, including the following:
+• Customers
+• Retailers
+• Wholesalers/distributors
+• Manufacturers
+• Component/raw material suppliers
+Each stage in a supply chain is connected through the flow of products, information, and 
+funds. These flows often occur in both directions and may be managed by one of the stages or an 
+intermediary. Each stage in Figure 1-2 need not be present in a supply chain. As discussed in 
+Chapter 4, the appropriate design of the supply chain depends on both the customer’s needs and 
+the roles played by the stages involved. For example, Dell has two supply chain structures that it 
+uses to serve its customers. For its server business, Dell builds to order; that is, a customer order 
+initiates manufacturing at Dell. For the sale of servers, Dell does not have a separate retailer, 
+distributor, or wholesaler in the supply chain. Dell also sells consumer products such as PCs and 
+tablets through retailers such as Walmart, which carry Dell products in inventory. This supply 
+chain thus contains an extra stage (the retailer), compared with the direct sales model used by 
+Dell for servers. In the case of other retail stores, the supply chain may also contain a wholesaler 
+or distributor between the store and the manufacturer.
+1.2 HISTORICAL PERSPECTIVE
+Supply chain management, as we understand it today, represents the confluence of at least 
+three main streams of knowledge and practical experience of the business world, spanning 
+almost 60 years. The fusion of these streams into one powerful movement, supply chain man-
+agement, that is sweeping across the present-day industrial world has been brought about by 
+intense competition characteristic of contemporary markets. It is, therefore, appropriate that a 
+discussion on supply chain management is preceded by a brief understanding of contributing 
+disciplines.
+These streams include business processes and managerial practices, which have evolved 
+somewhat unconnectedly, if not entirely independently, in the fields of operations management, 
+Supplier Distributor Retailer CustomerManufacturer
+Supplier Distributor Retailer CustomerManufacturer
+Supplier Distributor Retailer CustomerManufacturer
+FIGURE 1-2 Supply Chain Stages
+
+--- PAGE 25 ---
+4 Chapter 1 • Understanding the Supply Chain
+industrial engineering, and physical distribution. In the course of their development, these pro-
+cesses and practices have absorbed several allied and subsidiary functions as well as activities, 
+and adopted various successful business innovations.
+The three principal streams are:
+• Sourcing, procurement, and supply management
+• Materials management
+• Logistics and distribution
+Sourcing, Procurement, and Supply Management
+Commonly, though quite mistakenly referred to as supply chain management, these functions 
+arose in the area of purchasing which came to occupy a predominant position in businesses 
+because of their impact on cash flow and contribution towards the company profitability. Busi -
+nesses realized that efforts required to increase profits through increasing sales were far greater 
+than those involved in generating equivalent returns through reduction in procurement prices.
+1 
+Major purchases came to be handled by the top management who in turn depended on purchase 
+specialists for advice. Economic buying was seen to be a strategic function, with major contri-
+bution to bottom-line. The responsibilities of the purchase function, however, ended with the 
+procurement and a more mundane function of materials management took over. We may, thus, 
+regard it as the set of activities, functions, and processes concerned with economic procurement 
+and inflow of inputs
+2 into the enterprise and an efficient control over flow of funds out of the 
+company.
+In the context of supply chain management, these processes fall under sourcing, supply 
+side management, inbound logistics, and supplier relationship management together with mate-
+rials, information, and cash flows interconnected with each other. 
+Materials Management
+Classic materials management included the functions of forecasting, inventory management, 
+stores management, warehousing, stock keeping, and scheduling till it came to include pro-
+duction planning and production control,  to evolve into extended materials management. 
+With subsequent inclusion of order processing in its fold, it came to be known as integrated 
+materials management. Since materials constitute almost 60 per cent of the cost of most 
+manufactured products,
+3 at least in the Indian context, the importance of efficient manage-
+ment of materials came to be recognized by businesses during the 1970s as the route to cost 
+reduction and thereby to profitability. The merger of purchasing, which presented opportuni-
+ties for reduction in the cost of material inputs, with materials management, thus became an 
+obvious business compulsion. Some of the most innovative techniques focusing on reducing 
+total cost of inventories to the lowest possible levels without compromising on service levels, 
+owe their origin and growth to this stream of knowledge and experience. In relation to supply 
+chain management, it may be regarded as the management of flow of material into, through, 
+and out of an enterprise, adding in the process, value for the customers both internal and 
+external to the organization.
+1 In food industry, for instance, where logistics costs are of the order of 60 percent, a company would need to generate 
+additional sales to the tune of ` 4 to derive the same profits as it would, if it manages to reduce the procurement price by 
+Re. 1, presuming that it is working on a net profit margin of 10 percent.
+2 In its classic interpretation, purchasing function does not cover procurement of capital, personnel, data, and proprietary 
+rights such as licenses and patents. Integrated Materials Management: Definitions, Functions, and Activities. Robert 
+Fieten. Published by German Federal Association of Materials Management.
+3 With possible exception of some electronic goods incorporating innovative frontier technologies.
+
+--- PAGE 26 ---
+ Chapter 1 • Understanding the Supply Chain 5
+Logistics and Distribution
+Derived from military parlance,4 wherein it covered all functions related to movement and main-
+tenance of armies, the logistics function in its business application came to be recognized as 
+time- and space-related placement of goods to provide improved customer service. According to 
+the Council of Logistics Management, it is that part of the supply chain management process that 
+plans, implements, and controls the efficient, effective, forward, and reverse flow and storage of 
+goods, services, and related information between the point of origin and the point of consump-
+tion in order to meet customers’ requirements. The distribution function, which Peter Drucker 
+identified as the “Today’s Frontier”,
+5 is, in that sense, synonymous with Logistics.
+Since transportation, which is the backbone of logistics, accounts for up to 50 per cent of 
+total logistics costs, the efficient management of this function became an important preoccupa-
+tion of management leading to the development of transportation-related practices involving all 
+modes, in general and multimodal transport, in particular as evidenced by revolutionary develop-
+ment and exponential growth of containerized cargo handling and movement worldwide. Real-
+ization, on the part of businesses, that there was an obvious trade-off between transportation 
+choices and inventory policies led to integration, and logistics emerged as a cross-functional 
+approach that integrates all materials, functions of purchasing, inventory management, produc-
+tion control, inbound traffic, warehousing, and store keeping as well as incoming quality control 
+with the objective of ensuring efficient operations. In this shape, business logistics may be 
+regarded as the early avatar of supply chain management.
+In the context of supply chain management, logistics would fall at both ends, that is, 
+inbound logistics and outbound logistics. Interestingly, the intracompany flow of materials is 
+sometimes referred to as manufacturing logistics, giving this discipline a breadth of reach over 
+end-to-end movement of materials at all stages of industrial and business endeavor in delivering 
+value to customer. Supply chain management has thus emerged as an integrative philosophy and 
+a strategic-level business practice which encompasses flow of materials, funds, and information 
+throughout the network that ultimately delivers value to the customer.
+1.3 THE OBJECTIVE OF A SUPPLY CHAIN
+The objective of every supply chain should be to maximize the overall value generated. The 
+value (also known as supply chain surplus) a supply chain generates is the difference between 
+what the value of the final product is to the customer and the costs the supply chain incurs in fill-
+ing the customer’s request.
+Supply Chain Surplus = Customer Value – Supply Chain Cost
+The value of the final product may vary for each customer and can be estimated by the maximum 
+amount the customer is willing to pay for it. The difference between the value of the product and its 
+price remains with the customer as consumer surplus. The amount of consumer surplus, a concept 
+expounded in welfare economics, has always been difficult to determine precisely in monetary 
+terms as it is not clearly measurable as to how much a customer was eventually willing to pay for a 
+product or service vis-a-vis what he actually paid. The estimates are subjective and would vary 
+from person to person and situation to situation. A person in dire need of a product or service in an 
+extreme situation may be willing to pay any price if he has no other alternative. A man stranded in 
+a desert without water may be willing to give away his entire estate for a glass of water.
+However, there is one area in which this figure does become measurable and that is through 
+the difference in prices between branded and generic drugs which provide equal relief or deliver 
+4 First used by Henri Jomini during mid 19th Century to cover the art of moving and marinating armies.
+5 “Physical distribution is today’s frontier in business. It is one area where managerial results of great magnitude can be
+achieved and is still largely unexplored.” Peter Drucker.
+
+--- PAGE 27 ---
+6 Chapter 1 • Understanding the Supply Chain
+equal value to the patient. As the price differential between the patented drugs and their generic 
+versions is substantial, and as both ostensibly provide equal value to the patient, we can measure, 
+fairly precisely, the difference in costs of the two and regard it as consumer surplus.
+Naturally, the higher the consumer surplus the more attractive the product or service. This 
+is what is accounting for the exponential growth in Indian Generic Drugs industry.
+We will cover this phenomenon through as case study at the end of the chapter.
+The rest of the supply chain surplus becomes supply chain profitability, the difference 
+between the revenue generated from the customer and the overall cost across the supply chain. 
+For example, a customer purchasing a wireless router from Best Buy pays $60, which represents 
+the revenue the supply chain receives. Customers who purchase the router clearly value it at or 
+above $60. Thus, part of the supply chain surplus is left with the customer as consumer surplus. 
+The rest stays with the supply chain as profit. Best Buy and other stages of the supply chain incur 
+costs to convey information, produce components, store them, transport them, transfer funds, and 
+so on. The difference between the $60 that the customer paid and the sum of all costs incurred by 
+the supply chain to produce and distribute the router represents the supply chain profitability. 
+Supply chain profitability is the total profit to be shared across all supply chain stages and inter-
+mediaries. The higher the supply chain profitability, the more successful is the supply chain. For 
+most profit-making supply chains, the supply chain surplus will be strongly correlated with prof-
+its. Supply chain success should be measured in terms of supply chain profitability and not in 
+terms of the profits at an individual stage. (In subsequent chapters, we see that a focus on profit-
+ability at individual stages may lead to a reduction in overall supply chain profits.) A focus on 
+growing the supply chain surplus pushes all members of the supply chain toward growing the 
+size of the overall pie.
+Having defined the success of a supply chain in terms of supply chain profitability, the next 
+logical step is to look for sources of value, revenue, and cost. For any supply chain, there is only 
+one source of revenue: the customer. The value obtained by a customer purchasing detergent at 
+Wal-Mart depends upon several factors, including the functionality of the detergent, how far the 
+customer has to travel to Wal-Mart, and the likelihood of finding the detergent in stock. The cus-
+tomer is the only one providing positive cash flow for the Wal-Mart supply chain. All other cash 
+flows are simply fund exchanges that occur within the supply chain, given that different stages 
+have different owners. When Wal-Mart pays its supplier, it is taking a portion of the funds the 
+customer provides and passing that money on to the supplier. All flows of information, product, 
+or funds generate costs within the supply chain. Thus, the appropriate management of these 
+flows is a key to supply chain success. Effective supply chain management involves the manage-
+ment of supply chain assets and product, information, and fund flows to maximize total supply 
+chain surplus. A growth in supply chain surplus increases the size of the total pie, allowing con-
+tributing members of the supply chain to benefit.
+In this book, we have a strong focus on analyzing all supply chain decisions in terms of 
+their impact on the supply chain surplus. These decisions and their impact can vary for a wide 
+variety of reasons. For instance, consider the difference in the supply chain structure for fastmov-
+ing consumer goods observed in the United States and India. U.S. distributors play a much 
+smaller role in this supply chain compared to their Indian counterparts. We argue that the differ-
+ence in supply chain structure can be explained by the impact a distributor has on the supply 
+chain surplus in the two countries.
+Retailing in the United States is largely consolidated, with large chains buying consumer 
+goods from most manufacturers. This consolidation gives retailers sufficient scale that the intro-
+duction of an intermediary such as a distributor does little to reduce costs and may actually 
+increase costs because of an additional transaction.
+In contrast, India has millions of small retail outlets. The small size of Indian retail outlets 
+limits the amount of inventory they can hold, thus requiring frequent replenishment—an order 
+
+--- PAGE 28 ---
+ Chapter 1 • Understanding the Supply Chain 7
+can be compared with the weekly grocery shopping for a family in the United States. The only 
+way for a manufacturer to keep transportation costs low is to bring full truckloads of product 
+close to the market and then distribute locally using “milk runs” with smaller vehicles. The pres-
+ence of an intermediary who can receive a full truckload shipment, break bulk, and then make 
+smaller deliveries to the retailers is crucial if transportation costs are to be kept low. Most Indian 
+distributors are one-stop shops, stocking everything from cooking oil to soaps and detergents 
+made by a variety of manufacturers. Besides the convenience provided by one-stop shopping, 
+distributors in India are also able to reduce transportation costs for outbound delivery to the 
+retailer by aggregating products across multiple manufacturers during the delivery runs. Dis-
+tributors in India also handle collections, because their cost of collection is significantly lower 
+than that of each manufacturer collecting from retailers on its own would be. Thus, the important 
+role of distributors in India can be explained by the growth in supply chain surplus that results 
+from their presence.
+Most traditional supply chains presently existing in India, operate what approximates to a 
+multi echelon distribution model in which supplies move from the suppliers and manufacturers 
+through a series of large and small stockholders and intermediaries to reach the customers right 
+down to remote villages in which most of the Indian population resides and which are not always 
+well connected. National-, regional-, state-, district-, and local-level stockiest constitute links in 
+the chain replenishing and getting replenished, normally through a wide variety of surface trans-
+portation in an interconnected network, creating in the process inventories at each stage. The 
+dynamics of such supply chains differ quite considerably from the IT-enabled supply chains 
+serving well-developed and well-connected urban markets through organized retailing. The sup-
+ply chain surplus argument implies that as retailing in India begins to consolidate, the role of 
+distributors will diminish.
+1.4 THE IMPORTANCE OF SUPPLY CHAIN DECISIONS
+There is a close connection between the design and management of supply chain flows (prod-
+uct, information, and funds) and the success of a supply chain. Walmart, Amazon, and Seven-
+Eleven Japan are examples of companies that have built their success on superior design, 
+planning, and operation of their supply chain. In contrast, the failure of many online busi-
+nesses, such as Webvan, can be attributed to weaknesses in their supply chain design and plan -
+ning. The rise and subsequent fall of the bookstore chain Borders illustrates how a failure to 
+adapt its supply chain to a changing environment and customer expectations hurt its perfor -
+mance. Dell Computer is another example of a company that had to revise its supply chain 
+design in response to changing technology and customer needs. We discuss these examples 
+later in this section.
+Walmart has been a leader at using supply chain design, planning, and operation to achieve 
+success. From its beginning, the company invested heavily in transportation and information 
+infrastructure to facilitate the effective flow of goods and information. Walmart designed its sup-
+ply chain with clusters of stores around distribution centers to facilitate frequent replenishment at 
+its retail stores in a cost-effective manner. Frequent replenishment allows stores to match supply 
+and demand more effectively than the competition. Walmart has been a leader in sharing infor -
+mation and collaborating with suppliers to bring down costs and improve product availability. 
+The results are impressive. In its 2013 annual report, the company reported a net income of about 
+$17 billion on revenues of about $469 billion. These are dramatic results for a company that 
+reached annual sales of only $1 billion in 1980. The growth in sales represents an annual com-
+pounded growth rate of more than 20 percent.
+Seven-Eleven Japan is another example of a company that has used excellent supply chain 
+design, planning, and operation to drive growth and profitability. It has used a very responsive 
+
+--- PAGE 29 ---
+8 Chapter 1 • Understanding the Supply Chain
+replenishment system along with an outstanding information system to ensure that products are 
+available when and where customers need them. Its responsiveness allows it to change the mer -
+chandising mix at each store by time of day to precisely match customer demand. As a result, the 
+company has grown from sales of 1 billion yen in 1974 to almost 1.9 trillion yen in 2013, with 
+profits in 2013 totaling 222 billion yen.
+The failure of many online businesses, such as Webvan and Kozmo, can be attributed 
+to their inability to design appropriate supply chains or manage supply chain flows effec-
+tively. Webvan designed a supply chain with large warehouses in several major cities in the 
+United States, from which groceries were delivered to customers’ homes. This supply chain 
+design could not compete with traditional supermarket supply chains in terms of cost. Tradi -
+tional supermarket chains bring product to a supermarket close to the consumer using full 
+truckloads, resulting in very low transportation costs. They turn their inventory relatively 
+quickly and let the customer perform most of the picking activity in the store. In contrast, 
+Webvan turned its inventory marginally faster than supermarkets but incurred much higher 
+transportation costs for home delivery, as well as high labor costs to pick customer orders. 
+The result was a company that folded in 2001, within two years of a very successful initial 
+public offering.
+As the experience of Borders illustrates, a failure to adapt supply chains to a changing 
+environment can significantly hurt performance. Borders, along with Barnes & Noble, domi-
+nated the selling of books and music in the 1990s by implementing the superstore concept. 
+Compared with small local bookstores that dominated the industry prior to that, Borders was 
+able to offer greater variety (about 100,000 titles at superstores, relative to fewer than 10,000 
+titles at a local bookstore) to customers at a lower cost by aggregating operations in large stores. 
+This allowed the company to achieve higher inventory turns than local bookstores with lower 
+operating costs per dollar of sales. In 2004, Borders achieved sales of almost $4 billion, with 
+profits of $132 million. Its model, however, was already under attack with the growth of  
+Amazon, which offered much greater variety than Borders at lower cost by selling online and 
+stocking its inventories in a few distribution centers. Borders’ inability to adapt its supply chain 
+to compete with Amazon led to a rapid decline. By 2009, sales had dropped to $2.8 billion; the 
+company lost $109 million that year.
+Dell is another example of a company that enjoyed tremendous success based on its sup -
+ply chain design, planning, and operation but then had to adapt its supply chain in response to 
+shifts in technology and customer expectations. Between 1993 and 2006, Dell experienced 
+unprecedented growth of both revenue and profits by structuring a supply chain that provided 
+customers with customized PCs quickly and at reasonable cost. By 2006, Dell had a net income 
+of more than $3.5 billion on revenues of just over $56 billion. This success was based on two 
+key supply chain features that supported rapid, low-cost customization. The first was Dell’s 
+decision to sell directly to the end customer, bypassing distributors and retailers. The second 
+key aspect of Dell’s supply chain was the centralization of manufacturing and inventories in a 
+few locations where final assembly was postponed until the customer order arrived. As a result, 
+Dell was able to provide a large variety of PC configurations while keeping low levels of com-
+ponent inventories
+Key Point
+Supply chain design, planning, and operation decisions play a significant role in the success or failure of 
+a firm. To stay competitive, supply chains must adapt to changing technology and customer expectations.
+In spite of this tremendous success, the changing marketplace presented some new 
+challenges for Dell. Whereas Dell’s supply chain was well suited for highly customized PCs, 
+the market shifted to lower levels of customization. Given the growing power of hardware, 
+
+--- PAGE 30 ---
+ Chapter 1 • Understanding the Supply Chain 9
+customers were satisfied with a few model types. Dell reacted by adjusting its supply chain 
+with regard to both direct selling and building to order. The company started selling its PCs 
+through retail chains such as Walmart in the United States and GOME in China. It also out-
+sourced a large fraction of its assembly to low-cost locations, effectively building to stock 
+rather than to customer order. Unlike Borders, Dell is making a significant effort to adapt its 
+supply chain to changing times. It remains to be seen whether these changes will improve 
+Dell’s performance.
+In the next section, we categorize supply chain decision phases based on the frequency 
+with which they are made and the time frame they take into account.
+1.5 DECISION PHASES IN A SUPPLY CHAIN
+Successful supply chain management requires many decisions relating to the flow of informa-
+tion, product, and funds. Each decision should be made to raise the supply chain surplus. These 
+decisions fall into three categories or phases, depending on the frequency of each decision and 
+the time frame during which a decision phase has an impact. As a result, each category of deci-
+sions must consider uncertainty over the decision horizon.
+1. Supply chain strategy or design: During this phase, a company decides how to 
+structure the supply chain over the next several years. It decides what the chain’s configuration 
+will be, how resources will be allocated, and what processes each stage will perform. Strategic 
+decisions made by companies include whether to outsource or perform a supply chain function 
+in-house, the location and capacities of production and warehousing facilities, the products to 
+be manufactured or stored at various locations, the modes of transportation to be made available 
+along different shipping legs, and the type of information system to be used. PepsiCo Inc.’s 
+decision in 2009 to purchase two of its largest bottlers is a supply chain design or strategic deci-
+sion. A firm must ensure that the supply chain configuration supports its strategic objectives and 
+increases the supply chain surplus during this phase. As the PepsiCo CEO announced in a news 
+release on August 4, “while the existing model has served the system very well, the fully inte-
+grated beverage business will enable us to bring innovative products and packages to market 
+faster, streamline our manufacturing and distribution systems and react more quickly to changes 
+in the marketplace.” Supply chain design decisions are typically made for the long term (a mat -
+ter of years) and are expensive to alter on short notice. Consequently, when companies make 
+these decisions, they must take into account uncertainty in anticipated market conditions over 
+the following few years.
+It is nevertheless important that companies continually revisit their supply chain strate-
+gies and make necessary mid-course corrections to realign themselves with the changing mar -
+ket conditions, technological development, and consumer preferences. This is particularly 
+important in case of countries where the adoption of IT tools and emergence of e-commerce 
+are impacting the traditional supply chains, and those that are in the process of moving into the 
+organised sector, equally. In this context, developments in the Indian Retail industry where 
+both kiranas (traditional grocery stores) and shopping malls are being impacted by the grow-
+ing consumer preference for online shopping, hold some useful lessons. Shopping malls, 
+which were threatening the traditional kiranas are now themselves being threatened by the 
+‘e-tailers’ as seen from the fact that the footfalls in the brick and mortar malls have dropped 
+considerably. This has resulted in a large number of malls in metropolitan cities to close down 
+and many others to reshape themselves into office spaces for alternative uses. Reliance Retail 
+and Reliance Fresh Direct are both aggressively promoting ‘e-tailing’ and launching their own 
+E commerce portals to create both an online and offline presence. Kiranas too are adopting IT 
+tools to provide more responsive customer service. Some of the larger ‘e-tailers’ are consider -
+ing taking the local kiranas under their wings and use them for better performance and last 
+
+--- PAGE 31 ---
+10 Chapter 1 • Understanding the Supply Chain
+mile deliveries due to their proximity to consumers. These changes in supply chain designs 
+and strategies are likely to throw up at least a few India specific distribution system in the near 
+future. 
+In this context, Amazon India’s  pilot project “Kirana Now” which aims to deliver the 
+ordered goods within two to four hours from the IT enabled neighbourhood  Kirana stores  using 
+their staff supported by its own logistics services, seems to present a solution likely to succeed in 
+the Indian scenario.
+Strategic Changes are also underway in the Indian Generic Drugs industry where the divi-
+sion between the Chronic Therapy and Acute Therapy range of drugs  is becoming sharper with 
+more and more firms migrating  from the later to the former. This is a strategic shift to avail 
+higher profit margins rather than operating in a highly competitive environment in the Acute 
+Therapy range where low price leadership strategy seems to operate. Sun Pharma, Doctor Red-
+dy’s Laboratories Limited, Cipla, and Lupin have chosen to concentrate on the chronic Therapy 
+Range dealing in limited number of drugs with high profit margins. This shift supports the belief 
+that Low Price Leadership Strategy has its limitations and cannot be sustained over prolonged 
+periods.
+2. Supply chain planning: For decisions made during this phase, the time frame 
+ considered is a quarter to a year. Therefore, the supply chain’s configuration determined in the 
+ strategic phase is fixed. This configuration establishes constraints within which planning must be 
+done. The goal of planning is to maximize the supply chain surplus that can be generated over 
+the planning horizon given the constraints established during the strategic or design phase. 
+ Companies start the planning phase with a forecast for the coming year (or a comparable time 
+frame) of demand and other factors, such as costs and prices in different markets. Planning 
+includes making decisions regarding which markets will be supplied from which locations, the 
+subcontracting of manufacturing, the inventory policies to be followed, and the timing and size 
+of marketing and price  promotions. For example, steel giant ArcelorMittal’s decisions regarding 
+markets supplied by a production facility and target production quantities at each location are 
+classified as planning  decisions. In the planning phase, companies must include uncertainty in 
+demand, exchange rates, and competition over this time horizon in their decisions. Given a 
+shorter time frame and better forecasts than in the design phase, companies in the planning phase 
+try to incorporate any  flexibility built into the supply chain in the design phase and exploit it to 
+optimize performance. As a result of the planning phase, companies define a set of operating 
+policies that govern short-term operations.
+3. Supply chain operation: The time horizon here is weekly or daily. During this phase, 
+companies make decisions regarding individual customer orders. At the operational level, supply 
+chain configuration is considered fixed and planning policies are already defined. The goal of 
+supply chain operations is to handle incoming customer orders in the best possible manner. Dur-
+ing this phase, firms allocate inventory or production to individual orders, set a date by which an 
+order is to be filled, generate pick lists at a warehouse, allocate an order to a particular shipping 
+mode and shipment, set delivery schedules of trucks, and place replenishment orders. Because 
+operational decisions are being made in the short term (minutes, hours, or days), there is less 
+uncertainty about demand information. Given the constraints established by the configuration 
+and planning policies, the goal during the operation phase is to exploit the reduction of uncer -
+tainty and optimize performance.
+The design, planning, and operation of a supply chain have a strong impact on overall prof-
+itability and success. It is fair to state that a large part of the success of firms such as Walmart and 
+Seven-Eleven Japan can be attributed to their effective supply chain design, planning, and operation.
+In later chapters, we develop concepts and present methodologies that can be used at each 
+of the three decision phases described earlier. Most of our discussion addresses the supply chain 
+design and planning phases.
+
+--- PAGE 32 ---
+ Chapter 1 • Understanding the Supply Chain 11
+Key Point
+Supply chain decision phases may be categorized as design, planning, or operational, depending on the 
+time frame during which the decisions made apply. Design decisions constrain or enable good planning, 
+which in turn constrains or enables effective operation.
+1.6 PROCESS VIEWS OF A SUPPLY CHAIN
+A supply chain is a sequence of processes and flows that take place within and between different 
+stages and combine to fill a customer need for a product. There are two ways to view the pro-
+cesses performed in a supply chain.
+ 1. Cycle View: The processes in a supply chain are divided into a series of cycles, each 
+performed at the interface between two successive stages of the supply chain.
+ 2. Push/Pull View: The processes in a supply chain are divided into two categories, 
+depending on whether they are executed in response to a customer order or in anticipation 
+of customer orders. Pull processes are initiated by a customer order, whereas push  
+ processes are initiated and performed in anticipation of customer orders.
+Cycle View of Supply Chain Processes
+Given the five stages of a supply chain as shown in Figure 1-2, all supply chain processes can be 
+broken down into the following four process cycles, as shown in Figure 1-3:
+• Customer order cycle
+• Replenishment cycle
+• Manufacturing cycle
+• Procurement cycle
+Customer Order Cycle
+Replenishment Cycle
+Manufacturing Cycle
+Procurement Cycle
+Customer
+Distributor
+Manufacturer
+Supplier
+Retailer
+FIGURE 1-3 Supply Chain Process Cycles
+
+--- PAGE 33 ---
+12 Chapter 1 • Understanding the Supply Chain
+Each cycle occurs at the interface between two successive stages of the supply chain. Not 
+every supply chain will have all four cycles clearly separated. For example, a grocery supply 
+chain in which a retailer stocks finished-goods inventories and places replenishment orders with 
+a distributor is likely to have all four cycles separated. Dell, in contrast, bypasses the retailer and 
+distributor when it sells servers directly to customers.
+Each cycle consists of six subprocesses, as shown in Figure 1-4. Each cycle starts with the 
+supplier marketing the product to customers. A buyer then places an order that is received by 
+the supplier. The supplier supplies the order, which is received by the buyer. The buyer may 
+return some of the product or other recycled material to the supplier or a third party. The cycle 
+of activities then begins again. The subprocesses in Figure 1-4 can be linked to the source, 
+make, deliver, and return processes in the supply chain operations reference (SCOR) model. 
+The SCOR model provides a description of supply chain processes, a framework for relation -
+ships between these processes, and a set of metrics to measure process performance. The 
+description of the supply chain in the SCOR model is similar to the cycle view of supply chains 
+discussed in this section.
+Depending on the transaction in question, the subprocesses in Figure 1-4 can be applied to 
+the appropriate cycle. When customers shop online at Amazon, they are part of the customer 
+order cycle—with the customer as the buyer and Amazon as the supplier. In contrast, when  
+Amazon orders books from a distributor to replenish its inventory, it is part of the replenishment 
+cycle—with Amazon as the buyer and the distributor as the supplier.
+Within each cycle, the goal of the buyer is to ensure product availability and to achieve 
+economies of scale in ordering. The supplier attempts to forecast customer orders and 
+reduce the cost of receiving the order. The supplier then works to fill the order on time and 
+improve efficiency and accuracy of the order fulfillment process. The buyer then works to 
+reduce the cost of the receiving process. Reverse flows are managed to reduce cost and meet 
+environmental objectives.
+Even though each cycle has the same basic subprocesses, there are a few important differ-
+ences among the cycles. In the customer order cycle, demand is external to the supply chain and 
+thus is uncertain. In all other cycles, order placement is uncertain but can be projected based on 
+policies followed by the particular supply chain stage. For example, in the procurement cycle, a 
+tire supplier to an automotive manufacturer can predict tire demand precisely once the produc-
+tion schedule at the manufacturer is known. The second difference across cycles relates to the 
+scale of an order. A customer buys a single car, but the dealer orders multiple cars at a time from 
+the manufacturer, and the manufacturer, in turn, orders an even larger quantity of tires from the 
+supplier. As we move from the customer to the supplier, the number of individual orders declines 
+Supplier stage
+markets product
+Buyer returns reverse
+/f_lows to supplier or
+third party
+Buyer stage places
+order
+Buyer stage
+receives supply
+Supplier stage
+receives order
+Supplier stage
+supplies order
+FIGURE 1-4 Subprocesses in Each Supply Chain Process Cycle
+
+--- PAGE 34 ---
+ Chapter 1 • Understanding the Supply Chain 13
+and the size of each order increases. Thus, sharing of information and operating policies across 
+supply chain stages becomes more important as we move further from the end customer.
+The detailed process description of a supply chain in the cycle view is useful when consid-
+ering operational decisions because it clearly specifies the roles of each member of the supply 
+chain. The cycle view is used by enterprise resource planning (ERP) systems to support supply 
+chain operations.
+Key Point
+A cycle view of the supply chain clearly defines the processes involved and the owners of each process. 
+This view is useful when considering operational decisions because it specifies the roles and responsi-
+bilities of each member of the supply chain and the desired outcome for each process.
+Push/Pull View of Supply Chain Processes
+All processes in a supply chain fall into one of two categories, depending on the timing of their 
+execution relative to end customer demand. With pull processes, execution is initiated in response 
+to a customer order. With push processes, execution is initiated in anticipation of customer orders 
+based on a forecast. Pull processes may also be referred to as reactive processes because they react 
+to customer demand. Push processes may also be referred to as speculative processes because 
+they respond to speculated (or forecasted), rather than actual, demand. The push/pull boundary in 
+a supply chain separates push processes from pull processes, as shown in Figure 1-5. Push pro-
+cesses operate in an uncertain environment because customer demand is not yet known. Pull pro-
+cesses operate in an environment in which customer demand is known. They are, however, often 
+constrained by inventory and capacity decisions that were made in the push phase.
+Let us compare a make-to-stock environment like that of L. L. Bean and a build-to-order 
+environment like that of Ethan Allen to compare the push/pull view and the cycle view.
+L. L. Bean executes all processes in the customer order cycle after the customer order 
+arrives. All processes that are part of the customer order cycle are thus pull processes.  
+Order  fulfillment takes place from product in inventory that is built up in anticipation of  customer 
+orders. The goal of the replenishment cycle is to ensure product availability when a customer 
+order arrives. All processes in the replenishment cycle are performed in anticipation of demand 
+and are thus push processes. The same holds true for processes in the manufacturing and 
+Process
+N
+Process
+N /H11002 1
+Process
+k /H11001 1
+Process
+3
+Push/Pull Boundary
+Customer Order Arrives
+Push Processes
+Process 
+1
+Pull Processes
+Process
+2
+Process
+k
+FIGURE 1-5 Push/Pull View of the Supply Chain
+
+--- PAGE 35 ---
+14 Chapter 1 • Understanding the Supply Chain
+ procurement cycles. In fact, raw material such as fabric is often purchased six to nine months 
+before customer demand is expected. Manufacturing itself begins three to six months before the 
+point of sale. The processes in the L. L. Bean supply chain break up into pull and push processes, 
+as shown in Figure 1-6.
+Ethan Allen makes customized furniture, such as sofas and chairs, for which customers 
+select the fabric and finish. In this case, the arrival of a customer order triggers production of the 
+product. The manufacturing cycle is thus part of the customer order fulfillment process in the 
+customer order cycle. There are effectively only two cycles in the Ethan Allen supply chain for 
+customized furniture: (1) a customer order and manufacturing cycle and (2) a procurement cycle, 
+as shown in Figure 1-7.
+Customer Order Cycle
+Replenishment and 
+Manufacturing Cycle
+Procurement Cycle
+Customer
+L. L. Bean
+Manufacturer
+Supplier
+Customer 
+Order Cycle
+Procurement,
+Manufacturing,
+Replenishment 
+Cycles
+PULL
+PROCESSES
+PUSH
+PROCESSES
+Customer
+Order 
+Arrives
+FIGURE 1-6 Push/Pull Processes for the L. L. Bean Supply Chain
+Customer Order and 
+Manufacturing Cycle
+Procurement
+Cycle
+Customer 
+Order and 
+Manufacturing
+Cycle
+Procurement
+Cycle
+PULL
+PROCESSES
+PUSH
+PROCESSES
+Customer
+Order 
+Arrives
+FIGURE 1-7 Push/Pull Processes for Ethan Allen Supply Chain for Customized 
+Furniture
+
+--- PAGE 36 ---
+ Chapter 1 • Understanding the Supply Chain 15
+All processes in the customer order and manufacturing cycle at Ethan Allen are clas-
+sified as pull processes because they are initiated by customer order arrival. The company, 
+however, does not place component orders in response to a customer order. Inventory is 
+replenished in anticipation of customer demand. All processes in the procurement cycle 
+for Ethan Allen are thus classified as push processes, because they are in response to a 
+forecast.
+Key Point
+A push/pull view of the supply chain categorizes processes based on whether they are initiated in 
+response to a customer order (pull) or in anticipation of a customer order (push). This view is useful 
+when considering strategic decisions relating to supply chain design.
+A push/pull view of the supply chain is very useful when considering strategic deci-
+sions relating to supply chain design. The goal is to identify an appropriate push/pull bound-
+ary such that the supply chain can match supply and demand effectively.
+The paint industry provides another excellent example of the gains from suitably 
+adjusting the push/pull boundary. The manufacture of paint requires production of the base, 
+mixing of suitable colors, and packing. Until the 1980s, all these processes were performed 
+in large factories, and paint cans were shipped to stores. These qualified as push processes, 
+as they were performed to a forecast in anticipation of customer demand. Given the uncer -
+tainty of demand, though, the paint supply chain had great difficulty matching supply and 
+demand. In the 1990s, paint supply chains were restructured so mixing of colors was done at 
+retail stores after customers placed their orders. In other words, color mixing was shifted 
+from the push to the pull phase of the supply chain even though base preparation and pack -
+ing of cans were still performed in the push phase. The result is that customers are always 
+able to get the color of their choice, whereas total paint inventories across the supply chain 
+have declined.
+Supply Chain Macro Processes in a Firm
+All supply chain processes discussed in the two process views and throughout this book can be 
+classified into the following three macro processes, as shown in Figure 1-8:
+ 1. Customer Relationship Management (CRM): All processes at the interface between the 
+firm and its customers
+ 2. Internal Supply Chain Management (ISCM): All processes that are internal to the firm
+ 3. Supplier Relationship Management (SRM): All processes at the interface between the 
+firm and its suppliers
+SRM ISCM CRM
+CustomerFirmSupplier
+ Market
+ Price
+ Sell
+ Call Center
+ Order Management
+ Strategic Planning
+ Demand Planning
+ Supply Planning
+ Ful/f_illment
+ Field Service
+ Source
+ Negotiate
+ Buy
+ Design Collaboration
+ Supply Collaboration
+FIGURE 1-8 Supply Chain Macro Processes
+
+--- PAGE 37 ---
+16 Chapter 1 • Understanding the Supply Chain
+Key Point
+Within a firm, all supply chain activities belong to one of three macro processes: CRM, ISCM, and 
+SRM. Integration among the three macro processes is crucial for successful supply chain management.
+These three macro processes manage the flow of information, product, and funds 
+required to generate, receive, and fulfill a customer request. The CRM macro process aims 
+to generate customer demand and facilitate the placement and tracking of orders. It includes 
+processes such as marketing, pricing, sales, order management, and call center management. 
+At an industrial distributor such as W.W. Grainger, CRM processes include the preparation 
+of catalogs and other marketing materials, management of the website, and management of 
+the call center that takes orders and provides service. The ISCM macro process aims to ful-
+fill demand generated by the CRM process in a timely manner and at the lowest possible 
+cost. ISCM processes include the planning of internal production and storage capacity, prep-
+aration of demand and supply plans, and fulfillment of actual orders. At W.W. Grainger, 
+ISCM processes include planning for the location and size of warehouses; deciding which 
+products to carry at each warehouse; preparing inventory management policies; and picking, 
+packing, and shipping actual orders. The SRM macro process aims to arrange for and man-
+age supply sources for various goods and services. SRM processes include the evaluation 
+and selection of suppliers, negotiation of supply terms, and communication regarding new 
+products and orders with suppliers. At W.W. Grainger, SRM processes include the selection 
+of suppliers for various products, negotiation of pricing and delivery terms with suppliers, 
+sharing of demand and supply plans with suppliers, and the placement of replenishment 
+orders.
+Observe that all three macro processes are aimed at serving the same customer. For a sup-
+ply chain to be successful, it is crucial that the three macro processes are well integrated. The 
+importance of this integration is discussed in Chapter 10. The organizational structure of the firm 
+has a strong influence on the success or failure of the integration effort. In many firms, marketing 
+is in charge of the CRM macro process, manufacturing handles the ISCM macro process, and 
+purchasing oversees the SRM macro process—with little communication among them. It is not 
+unusual for marketing and manufacturing to have different forecasts when making their plans. 
+This lack of integration hurts the supply chain’s ability to match supply and demand effectively, 
+leading to dissatisfied customers and high costs. Thus, firms should structure a supply chain 
+organization that mirrors the macro processes and ensures good communication and coordina-
+tion among the owners of processes that interact with one another.
+1.7 EXAMPLES OF SUPPLY CHAINS
+In this section, we consider several supply chains and raise questions that must be answered dur-
+ing their design, planning, and operation phases. In later chapters, we discuss concepts and pres-
+ent methodologies that can be used to answer these questions.
+Gateway and Apple: Two Different Journeys into Retailing
+Gateway was founded in 1985 as a direct sales manufacturer of PCs with no retail footprint. In 
+1996, Gateway was one of the first PC manufacturers to start selling PCs online. After many 
+years of selling its PCs without a retail infrastructure, however, Gateway introduced an aggres-
+sive strategy of opening Gateway retail stores throughout the United States in the late 1990s. Its 
+stores carried no finished-goods inventory and were primarily focused on helping customers 
+select the right configuration to purchase. All PCs were manufactured to order and shipped to the 
+customer from one of the assembly plants.
+
+--- PAGE 38 ---
+ Chapter 1 • Understanding the Supply Chain 17
+Initially, investors rewarded Gateway for this strategy and raised the stock price to more 
+than $80 per share in late 1999. However, this success did not last. By November 2002, 
+ Gateway shares had dropped to less than $4, and Gateway was losing a significant amount of 
+money. By April 2004, Gateway had closed all its retail outlets and reduced the number of 
+configurations offered to customers. In August 2007, Gateway was purchased by Taiwan’s 
+Acer for $710 million. By 2010, Gateway computers were sold through more than 20  different 
+retail outlets, including Best Buy and Costco. As one can imagine, this was quite a transition 
+for the company to experience.
+In contrast, Apple has enjoyed tremendous success since it opened its first retail store in 
+2001. By 2013, Apple had more than 415 stores worldwide, with sales of over $20 billion. Unlike 
+Gateway, Apple has always carried product inventory at its stores. Given its product designs, 
+Apple carries relatively little variety in its stores. In 2012, average revenue per Apple retail store 
+was $51.5 million, a 19 percent increase over 2011.
+The following questions highlight supply chain decisions that have a bearing on the differ-
+ence between Apple’s and Gateway’s performance:
+ 1. Why did Gateway choose not to carry any finished-product inventory at its retail stores? 
+Why did Apple choose to carry inventory at its stores?
+ 2. Should a firm with an investment in retail stores carry any finished-goods inventory? What 
+are the characteristics of products that are most suitable to be carried in finished-goods 
+inventory? What characterizes products that are best manufactured to order?
+ 3. How does product variety affect the level of inventory a retail store must carry?
+ 4. Is a direct selling supply chain without retail stores always less expensive than a supply 
+chain with retail stores?
+ 5. What factors explain the success of Apple retail and the failure of Gateway country stores?
+Zara: Apparel Manufacturing and Retail
+Zara is a chain of fashion stores owned by Inditex, Spain’s largest apparel manufacturer and 
+retailer. In 2012, Inditex reported sales of about 16 billion euros from more than 6,000 retail 
+outlets in about 86 countries. In an industry in which customer demand is fickle, Zara has grown 
+rapidly with a strategy to be highly responsive to changing trends with affordable prices. Whereas 
+design-to-sales cycle times in the apparel industry have traditionally averaged more than  
+six months, Zara has achieved cycle times of four to six weeks. This speed allows Zara to 
+ introduce new designs every week and to change 75 percent of its merchandise display every 
+three to four weeks. Thus, Zara’s products on display match customer preferences much more 
+closely than do those of the competition. The result is that Zara sells most of its products at full 
+price and has about half the markdowns in its stores compared with the competition.
+Zara manufactures its apparel using a combination of flexible and quick sources in Europe 
+(mostly Portugal and Spain) and low-cost sources in Asia. This contrasts with most apparel man-
+ufacturers, who have moved most of their manufacturing to Asia. About 40 percent of the manu-
+facturing capacity is owned by Inditex, with the rest outsourced. Products with highly uncertain 
+demand are sourced out of Europe, whereas products that are more predictable are sourced from 
+its Asian locations. More than 40 percent of its finished-goods purchases and most of its in-house 
+production occur after the sales season starts. This compares with less than 20 percent produc-
+tion after the start of a sales season for a typical retailer. This responsiveness, along with the 
+postponement of decisions until after trends are known, allow Zara to reduce inventories and 
+forecast error. Zara has also invested heavily in information technology to ensure that the latest 
+sales data are available to drive replenishment and production decisions.
+In 2012, Inditex distributed to stores all over the world from eight distribution centers 
+located in Spain. The group claimed an average delivery time of 24 to 36 hours for European 
+stores and up to a maximum of 48 hours for stores in America or Asia from the time the order 
+
+--- PAGE 39 ---
+18 Chapter 1 • Understanding the Supply Chain
+was received in the distribution center (DC) to the time it was delivered to the stores. Shipments 
+from the DCs to stores were made several times a week. This allowed store inventory to closely 
+match customer demand.
+The following questions raise supply chain issues that are central to Zara’s strategy and 
+success:
+ 1. What advantage does Zara gain against the competition by having a very responsive supply 
+chain?
+ 2. Why has Inditex chosen to have both in-house manufacturing and outsourced manufactur-
+ing? Why has Inditex maintained manufacturing capacity in Europe even though manufac-
+turing in Asia is much cheaper?
+ 3. Why does Zara source products with uncertain demand from local manufacturers and 
+products with predictable demand from Asian manufacturers?
+ 4. What advantage does Zara gain from replenishing its stores multiple times a week com-
+pared with a less frequent schedule?
+ 5. Do you think Zara’s responsive replenishment infrastructure is better suited for online 
+sales or retail sales?
+W.W. Grainger and McMaster-Carr: MRO Suppliers
+W.W. Grainger and McMaster-Carr sell maintenance, repair, and operations (MRO) products. 
+Both companies have catalogs and web pages through which orders can be placed. W.W. Grainger 
+also has several hundred stores throughout the United States. Customers can walk into a store, 
+call in an order, or place it via the website. W.W. Grainger orders are either shipped to the cus-
+tomer or picked up by the customer at one of its stores. McMaster-Carr, on the other hand, ships 
+almost all its orders (although a few customers near its DCs do pick up their own orders). W.W. 
+Grainger has nine DCs that both replenish stores and fill customer orders. McMaster has five 
+DCs from which all orders are filled. Neither McMaster nor W.W. Grainger manufactures any 
+product. They both primarily serve the role of a distributor or retailer. Their success is largely 
+linked to their supply chain management ability.
+Both firms offer several hundred thousand products to their customers. Grainger stocks 
+about 300,000 stock-keeping units (SKUs), whereas McMaster carries about 500,000. Grainger 
+also provides many other products that it does not stock directly from its suppliers. Both firms 
+face the following strategic and operational issues:
+ 1. How many DCs should be built, and where should they be located?
+ 2. How should product stocking be managed at the DCs? Should all DCs carry all products?
+ 3. What products should be carried in inventory and what products should be left with the 
+supplier to be shipped directly in response to a customer order?
+ 4. What products should W.W. Grainger carry at a store?
+ 5. How should markets be allocated to DCs in terms of order fulfillment? What should be 
+done if an order cannot be completely filled from a DC? Should there be specified backup 
+locations? How should they be selected?
+Toyota: A Global Auto Manufacturer
+Toyota Motor Corporation is Japan’s top auto manufacturer and has experienced significant 
+growth in global sales over the past two decades. A key issue facing Toyota is the design of its 
+global production and distribution network. Part of Toyota’s global strategy is to open factories 
+in every market it serves. Toyota must decide what the production capability of each of the facto-
+ries will be, as this has a significant impact on the desired distribution system. At one extreme, 
+each plant can be equipped only for local production. At the other extreme, each plant is capable 
+of supplying every market. Before 1996, Toyota used specialized local factories for each market. 
+
+--- PAGE 40 ---
+ Chapter 1 • Understanding the Supply Chain 19
+After the Asian financial crisis in 1996–97, Toyota redesigned its plants so it could also export to 
+markets that remain strong when the local market weakens. Toyota calls this strategy “global 
+complementation.”
+Whether to be global or local is also an issue for Toyota’s parts plants and product design. 
+Should parts plants be built for local production or should there be a few parts plants globally 
+that supply multiple assembly plants? Toyota has worked hard to increase commonality in parts 
+used around the globe. Although this has helped the company lower costs and improve parts 
+availability, common parts caused significant difficulty when one of the parts had to be recalled. 
+In 2009, Toyota had to recall about 12 million cars using common parts across North America, 
+Europe, and Asia, causing significant damage to the brand as well as to the finances.
+Any global manufacturer like Toyota must address the following questions regarding the 
+configuration and capability of the supply chain:
+ 1. Where should the plants be located, and what degree of flexibility should be built into 
+each? What capacity should each plant have?
+ 2. Should plants be able to produce for all markets or only for specific contingency markets?
+ 3. How should markets be allocated to plants and how frequently should this allocation be 
+revised?
+ 4. How should the investment in flexibility be valued?
+Amazon: Online Sales
+Amazon sells books, music, and many other items over the Internet and is one of the pioneers of 
+online consumer sales. Amazon, based in Seattle, started by filling all orders using books pur -
+chased from a distributor in response to customer orders. As it grew, the company added ware-
+houses, allowing it to react more quickly to customer orders. In 2013, Amazon had about 40 
+warehouses in the United States and another 40 in the rest of the world. It uses the U.S. Postal 
+Service and other package carriers, such as UPS and FedEx, to send products to customers. Out-
+bound shipping-related costs at Amazon in 2012 were over $5 billion.
+Following the introduction of the Kindle, Amazon has worked hard to increase sales of 
+digital books. The company has also added a significant amount of audio and video content for 
+sale in digital form.
+Amazon has continued to expand the set of products that it sells online. Besides books 
+and music, Amazon has added many product categories such as toys, apparel, electronics, 
+jewelry, and shoes. In 2009, one of its largest acquisitions was Zappos, a leader in online 
+shoe sales. This acquisition added a great deal of product variety: According to the Amazon 
+annual report, this required creating 121,000 product descriptions and uploading more than 
+2.2 million images to the website. In 2010, another interesting acquisition by Amazon was 
+diapers.com. Unlike Zappos, this acquisition added little variety but considerable shipping 
+volumes.
+Several questions arise concerning how Amazon is structured and the product categories it 
+continues to add:
+ 1. Why is Amazon building more warehouses as it grows? How many warehouses should it 
+have, and where should they be located?
+ 2. Should Amazon stock every product it sells?
+ 3. What advantage can bricks-and-mortar players derive from setting up an online channel? 
+How should they use the two channels to gain maximum advantage?
+ 4. What advantages and disadvantages does the online channel enjoy in the sale of shoes and 
+diapers relative to a retail store?
+ 5. For what products does the online channel offer the greater advantage relative to retail 
+stores? What characterizes these products?
