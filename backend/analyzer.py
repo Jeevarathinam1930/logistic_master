@@ -6,8 +6,9 @@ from openai import OpenAI
 # ─── Paths ─────────────────────────────────────────────────────────
 _BACKEND_DIR = os.path.dirname(os.path.abspath(__file__))
 _PROJECT_ROOT = os.path.dirname(_BACKEND_DIR)
-KB_PATH = os.environ.get("KB_PATH", os.path.join(_PROJECT_ROOT, "knowledge_base_v1.txt"))
-
+_candidate_1 = os.path.join(_BACKEND_DIR, "knowledge_base_v1.txt")
+_candidate_2 = os.path.join(_PROJECT_ROOT, "knowledge_base_v1.txt")
+KB_PATH = _candidate_1 if os.path.exists(_candidate_1) else _candidate_2
 # ─── Domain Keywords ───────────────────────────────────────────────
 LOGISTICS_KEYWORDS = [
     'truck', 'trucking', 'freight', 'shipment', 'shipping', 'carrier', 'shipper',
