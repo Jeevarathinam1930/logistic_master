@@ -331,25 +331,6 @@ export default function PatternDetail({ pattern, onClose }: Props) {
               </div>
             )}
 
-            {/* Related Patterns (placeholder - same category) */}
-            <div
-              style={{
-                padding: '16px 0 0',
-                borderTop: '1px solid #E5E7EB',
-              }}
-            >
-              <p
-                style={{
-                  fontSize: '13px',
-                  fontWeight: 500,
-                  color: '#9CA3AF',
-                  marginBottom: '4px',
-                }}
-              >
-                {pattern.category.replace(/_/g, ' ')} — Pattern #{pattern.id}
-              </p>
-            </div>
-
             {/* Footer */}
             <div
               style={{

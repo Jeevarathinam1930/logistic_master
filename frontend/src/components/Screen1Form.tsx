@@ -245,6 +245,75 @@ export default function Screen1Form({ onAnalyze, loading, error, onClearError }:
                 </div>
               </div>
 
+              <div
+                style={{
+                  marginBottom: '24px',
+                  padding: '16px 18px',
+                  background: '#FFFBEB',
+                  border: '1px solid #FDE68A',
+                  borderRadius: '12px',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  gap: '12px',
+                }}
+              >
+                <div>
+                  <p
+                    style={{
+                      fontSize: '14px',
+                      fontWeight: 600,
+                      color: '#92400E',
+                      margin: 0,
+                    }}
+                  >
+                    <span style={{ marginRight: '8px' }}>⚡</span>
+                    Try Demo Scenario
+                  </p>
+                  <p
+                    style={{
+                      fontSize: '12px',
+                      color: '#B45309',
+                      margin: '2px 0 0',
+                    }}
+                  >
+                    See how it works with a real founder scenario
+                  </p>
+                </div>
+                <button
+                  onClick={() => {
+                    setForm({
+                      idea: 'AI forecasting tool for warehouse inventory for mid-size ecommerce companies',
+                      challenge: "I don't know if warehouses will share their data with me",
+                      background: 'working professional',
+                      customer: 'Mid-size ecommerce warehouses with 5,000–50,000 SKUs',
+                      budget: '$8,000',
+                      timeline: '6 months',
+                    });
+                    setStep('resources');
+                  }}
+                  style={{
+                    display: 'inline-flex',
+                    alignItems: 'center',
+                    gap: '6px',
+                    padding: '8px 18px',
+                    borderRadius: '8px',
+                    border: '1px solid #F59E0B',
+                    background: '#FFFFFF',
+                    color: '#92400E',
+                    fontSize: '13px',
+                    fontWeight: 600,
+                    cursor: 'pointer',
+                    whiteSpace: 'nowrap',
+                    transition: 'all 0.15s ease',
+                  }}
+                  onMouseEnter={(e) => { e.currentTarget.style.background = '#FFFBEB'; e.currentTarget.style.borderColor = '#D97706'; }}
+                  onMouseLeave={(e) => { e.currentTarget.style.background = '#FFFFFF'; e.currentTarget.style.borderColor = '#F59E0B'; }}
+                >
+                  🎯 Fill & Jump to Step 3
+                </button>
+              </div>
+
               <div style={{ marginBottom: '20px' }}>
                 <label className="label">What is your startup idea?</label>
                 <textarea

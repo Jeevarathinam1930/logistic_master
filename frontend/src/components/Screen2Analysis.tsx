@@ -211,7 +211,7 @@ function ActionPlanRenderer({ text }: { text: string }) {
     const t = raw.trim();
     if (!t) continue;
 
-    // Bold header: **30 Days:** or **Month 1:** or similar
+    // Phase header: **30 Days:** or **Month 1:** or plain "30 days (Month 1): Cost: $0"
     const boldMatch = t.match(/^\*\*([^*]+)\*\*:?\s*/);
     if (boldMatch) {
       milestoneIdx++;
@@ -219,6 +219,24 @@ function ActionPlanRenderer({ text }: { text: string }) {
       blocks.push({
         type: 'milestone',
         label: boldMatch[1].trim().replace(/:+$/, ''),
+        content: rest,
+        index: milestoneIdx,
+      });
+      continue;
+    }
+
+    // Plain text phase header: "30 days", "60 days", "Month 1", "Days 1–30", etc.
+    // Matches: "<number> <time unit>" or "Month <number>" or "Days <range>" at line start
+    const phaseMatch = t.match(
+      /^(?:\d+\s*(?:day|days|week|weeks|month|months)(?:\s*\([^)]*\))?\s*:|Days?\s+\d+\s*[–-]\s*\d+\s*:|Month\s+\d+\s*:|Phase\s+\d+\s*:?)/i
+    );
+    if (phaseMatch) {
+      milestoneIdx++;
+      const rest = t.slice(phaseMatch[0].length).trim();
+      const labelRaw = phaseMatch[0].replace(/:$/, '').trim();
+      blocks.push({
+        type: 'milestone',
+        label: labelRaw,
         content: rest,
         index: milestoneIdx,
       });
@@ -294,7 +312,7 @@ function ActionPlanRenderer({ text }: { text: string }) {
                     marginBottom: '4px',
                   }}
                 >
-                  {block.content}
+                  <Markdown text={block.content} />
                 </div>
               )}
             </div>
@@ -368,6 +386,19 @@ function Gauge({ value }: { value: number }) {
 }
 
 const DOT_COLORS = ['#2563EB', '#10B981', '#F59E0B', '#8B5CF6', '#EF4444', '#EC4899'];
+
+function cleanSource(source: string): string {
+  if (!source) return 'Unknown';
+  const parts = source.split('+').map((s) => s.trim()).filter(Boolean);
+  if (parts.length > 1) return 'Multiple Industry Sources';
+  const cleaned = parts[0]
+    .replace(/\.(md|txt)$/i, '')
+    .replace(/_+/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/\b\w/g, (c) => c.toUpperCase());
+  return cleaned || 'Unknown';
+}
 
 /* ─── Main component ─────────────────────────────────────── */
 export default function Screen2Analysis({ result, onContinue, onBackToStart }: Props) {
@@ -569,9 +600,13 @@ export default function Screen2Analysis({ result, onContinue, onBackToStart }: P
               margin: 0,
             }}
           >
-            {result.first_step.replace(/\*\*/g, '').length > 70
-              ? result.first_step.replace(/\*\*/g, '').slice(0, 70) + '...'
-              : result.first_step.replace(/\*\*/g, '')}
+            {(() => {
+              const text = result.first_step;
+              if (!text) return 'Define your first action';
+              const clean = text.replace(/\*\*/g, '').trim();
+              const firstSentence = clean.split(/[.!?\n]/).filter(Boolean)[0] || clean;
+              return firstSentence.length > 60 ? firstSentence.slice(0, 60) + '...' : firstSentence;
+            })()}
           </p>
         </div>
       </div>
@@ -776,7 +811,7 @@ export default function Screen2Analysis({ result, onContinue, onBackToStart }: P
                 {p.insight}
               </p>
               <p style={{ fontSize: '12px', color: '#9CA3AF', margin: '8px 0 0' }}>
-                Source: {p.source}
+                Source: {cleanSource(p.source)}
               </p>
             </div>
           ))}

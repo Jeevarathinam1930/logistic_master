@@ -111,9 +111,11 @@ function parseLine(raw: string): ParsedLine {
     return { type: 'tag-badge', text: '', tag: tagMatch[1] };
   }
 
-  // Headers
-  if (t.startsWith('### ')) return { type: 'h3', text: t.slice(4) };
-  if (t.startsWith('## ')) return { type: 'h2', text: t.slice(3) };
+  // Headers — handle with or without trailing space
+  const h3Match = t.match(/^###\s*(.*)/);
+  if (h3Match) return { type: 'h3', text: h3Match[1] };
+  const h2Match = t.match(/^##\s*(.*)/);
+  if (h2Match) return { type: 'h2', text: h2Match[1] };
 
   // Horizontal rule
   if (t === '---') return { type: 'hr', text: '' };
