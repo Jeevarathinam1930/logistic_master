@@ -29,7 +29,7 @@ export default function App() {
     setError(null);
     setFormData(data);
 
-    const apiUrl = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+    const apiUrl = import.meta.env.VITE_API_URL || 'https://logisticmaster-production.up.railway.app';
 
     try {
       const res = await fetch(`${apiUrl}/analyze`, {
